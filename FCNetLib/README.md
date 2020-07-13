@@ -1,6 +1,6 @@
-# gamsworld
+# GAMSWORLD - Fixed Cost Network Flow Library FCNetLib
 
-The project collects a selection of models formerly featured on http://www.gamsworld.org/. This part containts FCNetLib (Fixed Cost Network Flow Library) model statistics, FCNet GAMS models and helper GAMS programs.
+The project collects a selection of models formerly featured on http://www.gamsworld.org/. This part containts FCNetLib model statistics, FCNet GAMS models and helper GAMS programs.
 
 FCNetLib is a collection of instances for the fixed cost network flow problem. The purpose of the collection is to provide a unified presentation of the data instances together with some GAMS models that implement a straight forward IP formulation and a more sophisticated version that utilizes the GAMS/BCH facility. A class of known cuts (dicuts) is implemented as well as the local branching heuristic within the BCH framework.
 
