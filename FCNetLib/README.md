@@ -1,4 +1,4 @@
-# GAMSWORLD - Fixed Cost Network Flow Library FCNetLib
+# Fixed Cost Network Flow Library FCNetLib
 
 The project collects a selection of models formerly featured on http://www.gamsworld.org/. This part containts FCNetLib model statistics, FCNet GAMS models and helper GAMS programs.
 
