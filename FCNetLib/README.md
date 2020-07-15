@@ -23,7 +23,7 @@ F. Ortega and L.A. Wolsey. A branch-and-cut algorithm for the single-commodity, 
 **FCNetLib Model Statistics** 
 
 |Name	     |#Eqns	 |#Vars	|#NZ   |BestInt	                 |BestBnd	               |rel.Gap
-|-----------:|------:|-----:|-----:|------------------------:|------------------------:|-----:|
+|------------|------:|-----:|-----:|------------------------:|------------------------:|-----:|
 |beasleyC1	 |1751	 |2501	|6251  |85.00	                 |85.00		               |	  |
 |beasleyC2	 |1751	 |2501	|6251  |144.00	                 |144.00		 		   |      |
 |beasleyC3	 |1751	 |2501	|6251  |762.00	                 |719.94	               |5.84  | 
