@@ -9,12 +9,15 @@ The original models were in XPRESS-Modeler format and collected by Laurence Wols
 **Reference**
 
 Uncapacitated Fixed Charge Networks, by Laurence Wolsey
+
 F. Ortega and L.A. Wolsey. A branch-and-cut algorithm for the single-commodity, uncapacitated, fixed-charge network flow problem. Networks 41 (2003), no. 3, 143--158. (discussion paper with detailed results)
 
 **Additional Information**
 
 [GAMS BCH Facility](https://www.gams.com/latest/docs/UG_SolverUsage.html#ADVANCED_USAGE_BCHFacility)
+
 [Global Optimization and the GAMS Branch-and-Cut Facility](https://www.gams.com/archives/presentations/present_bch_global.pdf)
+
 [Benchmarking GAMS BCHF](http://gamsworld.org/performance/fcnetlib/kopts/bench-bchf.htm) (detailed description of work done for the CORS talk by Alexey Koptsevich)
 
 **FCNetLib Model Statistics** 
