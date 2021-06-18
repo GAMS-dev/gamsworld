@@ -1,0 +1,9 @@
+Princeton Library of Nonlinear Programming Models
+PrincetonLib is a collection of nonlinear programming (NLP) models. The purpose of the collection is to provide algorithm developers of nonlinear optimization codes with a large and varied set of both theoretical and practical test models. It also aids in the software quality assurance process by providing a set of tools to facilitate benchmarking and performance analysis.
+
+The original models were in AMPL format and collected by Robert Vanderbei and colleagues at Princeton University. They were translated by Andre Savitsky into GAMS.
+
+The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.
+
+Reference
+Nonlinear Optimization Models, collected by Robert Vanderbei and colleagues

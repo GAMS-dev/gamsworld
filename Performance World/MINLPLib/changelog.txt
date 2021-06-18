@@ -1,0 +1,365 @@
+MINLPLib Changelog
+==================
+
+02/17/13:
+---------
+Nick Sahinidis recognized that the model pairs (nuclear14, nuclear24),
+          (nuclear14a, nuclear24a), and (nuclear14b, nuclear24b)
+          are equal. As a consequence, the nuclear24* models have
+          been removed from the MINLPLib.
+
+08/08/12:
+---------
+Replaced infeasible point chp_partload_p2 by chp_partload_p3 and
+          infeasible points tln6_p2 and tln7_p2 by feasible ones.
+          Added $offlisting to the top of all model files to
+          allow for shorter listing files.
+
+08/06/12:
+---------
+Nick Sahinidis recognized that the models detf1 and saa_2 are
+          equal. As a consequence, model detf1 has been removed
+          from the MINLPLib. The new best known solution for saa_2
+          is 12.1613.
+
+05/25/12:
+---------
+Updated MINLPLib statistics to correctly reflect best known value
+          for water4 (907.017) as updated on 11/05/11.
+
+02/14/12:
+---------
+Removed solution points chp_partload_p4.gdx and contvar_p2.gdx,
+          since they were not feasible. This increases the best
+          known value for contvar to 809149.8272.
+
+01/17/12:
+---------
+New improved solutions for models eg_all_s (7.6578), mbtd(4.8333),
+          saa_2 (12.6922), water3 (907.017), waters (913.776),
+          watersym2 (940.9189), and watersbp (913.7757).
+          The points have been found by SCIP.
+
+11/09/11:
+---------
+New improved solutions for models saa_2 (12.7375), tls7 (15.5),
+          waters (935.6923), and watersbp (947.2880). The points have
+          been found by SCIP. The new solutions for waters, watersbp
+          and tls7 replace the ones added on 11/05/11.
+
+11/05/11:
+---------
+New improved solutions for models tls5 (10.3), tls6 (15.3), tls7 (15.8),
+          nuclear25b (-1.1010), water3 (920.6722), water4 (907.017),
+          watersbp (961.2847), waters (938.9031), watersym1 (913.7757)
+          have been added. These points have been found by SCIP.
+
+08/29/11:
+---------
+CS Norman Shiau contributed 3 new models that perform an optimal vehicle
+          allocation for minimizing greenhouse gas emissions:
+          ghg_1veh, ghg_2veh, ghg_3veh
+
+
+08/08/11:
+---------
+Toni Lastusilta pointed out that for some of the fo7, mo7, and o7 instances,
+          some provided points are only feasible w.r.t. very loose tolerance,
+          e.g., 1e-3. As a consequence, the points fo7_p1, fo8_p1, fo9_p1,
+          o7_2_p1, and o7_p1 have been removed and the points fo7_2_p1 and
+          mo7_p1 have been replaced by more accurate ones. Note that this
+          increases the best known value for fo7_2 to 17.7493 (previously
+          17.7489).
+
+
+08/01/11:
+---------
+Toni Lastusilta contributed improved solutions for models
+          nuclear14b (-1.1169), nuclear24b (-1.1169), nuclear49b (-1.1169),
+          nuclearvd (-1.0344), tls12 (112.8), water3 (930.9874),
+          waterful2 (1012.6093), watersym1 (941.5144), waterx (909.0401).
+          The solutions were found via AlphaECP.
+
+
+06/21/11:
+---------
+Pietro Belotti contributed an improved solution with value -115656.5
+          for model cecil_13.gms. He ran Couenne/trunk for 21000 seconds,
+          enumerating 2.1 million branch-and-bound nodes.
+
+
+04/08/11:
+---------
+lop97ic.gms: A solution of value 4041.83 has been found by
+          LindoGlobal. The solution is recorded in point
+          lop97ic_p2.gdx.
+
+
+01/11/11:
+---------
+Giacomo Nannicini contributed global solutions for the models water4
+          and waterz. He used Couenne with strong branching and a new
+          aggressive probing bound tightening technique.
+
+
+09/14/09:
+---------
+Stefan Vigerske kindly agreed to become the next managing editor of
+          MINLPWorld. Thanks to Michael Bussieck for more than eight
+          years of service. Michael remains with MINLPWorld as a new 
+          member of the advisory board.
+
+
+09/14/09:
+---------
+Tapio Westerlund and Toni Lastusilta contributed four new models:
+          netmod_dol1,_dol2,_kar1, and _kar2 with points.
+
+
+09/14/09:
+---------
+Tapio Westerlund and Toni Lastusilta contributed various new points
+          and pointed out some bugs in the points file. Jon Lee (IBM)
+          contributed the global solution to tln12. Stefan Vigerske
+          contributed the global optimum solution to lop97icx. Klaus
+          Schittkowski and Thomas Lehmann reported a new solution for
+          eg_all_s.
+
+          Stefan Vigerske suggested to change the quadratic term **2
+          to sqr() in model product and product2.
+
+
+08/26/08:
+---------
+Tapio Westerlund and Toni Lastusilta contributed improved points for
+          the models fo7, fo8, fo9, o7, o7_2, tln12, and waters using
+          AlphaECP. SBB when restarted from the AlphaECP solution
+          found an even better point for tln12 (p2). The incorrect
+          point p1 for nvs14 has updated.
+
+
+04/22/08:
+---------
+Stefan Vigerske contributed a new model chp_partload related to the 
+          super* models already in the library. He also provide four 
+          points found by SBB, LaGO, and OQNLP.
+
+
+06/14/07:
+---------
+Reorganization of the point files: The ASCII point files have been
+          changed into GDX files for easier use. The GAMS command
+          'execute_loadpoint "m_p1.gdx"' reads the point into GAMS. A
+          wrapper called loadpoint has been added to the library, so
+          loading of points from the command line can be used as
+          follows:
+
+          gams batch u1=loadpoint --pfile batch_p1.gdx 
+          
+          In case you liked the old point format. You can use the GDX
+          utility gdxdump to generate ASCII based point format:
+          'gdxdump batch_p1.gdx format=gamsbas > batch.p1' and then
+          run the model: 'gams batch u1=batch.p1'.
+
+Tapio Westerlund contributed two models: csched1a and csched2a.
+          These models are the corrected ones from the paper. The
+          printed version of the paper had some data inconsistencies.
+          The objective of the models also has been reformulated.
+          Points for these models also available.
+
+Monique Guignard contributed instances from the generalized quadratic
+          assignment problem: pb302035, pb302055, pb302075, pb302095,
+          pb351535, pb351555, pb351575, pb351595. AO and ECP methods
+          do very well on those. Points have been given for all of
+          them.
+
+Toni Lastusilta added bounds to some existing models to avoid
+          evaluation errors with using the AlphaECP solver. The new
+          models are: enpro48pb, enpro56pb, ex3pb, ravempb, and
+          risk2bpb. Points have been given for all of them.
+
+New points: There were a few models without an integer solution. We
+          added some solutions using various solvers: waterful2_p2,
+          m7_p1, m6_p1, m3_p1, fo7_2_p1, fo7_p1, fo8_p1, fo9_p1,
+          o7_2_p1, o7_p1, tls5, tls6.
+
+          The only models in MINLPLib without an integer solution are
+          nuclear104, nuclear10a, nuclear10b, space960 and
+
+The listing of the best known solution on the model page contains now
+          a comment. This might indicate that the solution is the
+          global optimum solution. We give the reason why we think
+          this is the global optimum. In most cases, a global solver
+          like BARON provided the solution. Please note that all
+          solvers work with tolerances, so globally optimal is subject
+          to the solver tolerances (optimality as well as
+          feasibility).
+
+Starting with GAMS22.5 there is a new global solver called LINDOGLOBAL
+          from Lindo Systems, Inc. LINDOGLOBAL accepts models with
+          trigonometric functions (sin, cos, ...). With that we have
+          been able to mark some more solutions to problems as
+          globally optimal.
+
+There are 103 quadratic problems among the 260 models in MINLPLib. The
+          model minlplib.gms contains the set m_miqcp with these
+          models. The scalar models have been adjusted to the model
+          type on the solve statement can be adjusted. This is also
+          useful, if one wants to solve the relaxed model. Just add
+          --minlp=miqcp or --minlp=rminlp to your model line to set
+          the model type in the solve statement.
+
+
+01/11/07:
+---------
+Stefan Vigerske provided new solutions for models pump (p2) and
+          eq_int_s (p1), Both solutions were found with LaGO/Conopt
+          and verified using SBB and CONOPT.
+
+01/02/06:
+---------
+Stefan Vigerske provided new solutions (p2) for models nuclear14b,
+          nuclear24b, and nuclear25n.  Both solutions were found with
+          LaGO and verified using SBB and CONOPT. 
+
+          These points have been improved by SBB/CONOPT (p3). The
+          tryint option in SBB lets one reproduce a given point by
+          setting branching directions on discrete variables. The SBB
+          option "dfsstay" does a couple of node explorations in the
+          neigborhood of the integer solution found and find the
+          "best" solution within a neighborhood. Using this approach
+          all three points have been slightly improved.
+
+12/29/05:
+---------
+Tapio Westerlund also provided solutions for the models added on 12/19/05. 
+          All solutions were found with AlphaECP and verified using SBB 
+          and CONOPT.
+
+12/19/05:
+---------
+32 new models fo[7,8,9]_ar*, m7_ar*, no7_ar* o[7,8,9]_ar* added: Tapio 
+          Westerlund contributed these model. They comes from the
+          paper 'Castillo, I, Westerlund, J, Emetb, S, and Westerlund,
+          T, Optimization of block layout design problems with unequal
+          areas: A comparison of MILP and MINLP optimization methods. 
+          Computers and Chemical Engineering 30 (2005), 54-769.
+
+02/19/05:
+---------
+Two new GAMS Client models added: uselinear and blendgap. Furthermore,
+          Stefan Vigerske contributed four model (super1,2,3,and 3t)
+          together with points generated by LaGO.
+
+11/30/04:
+---------
+New improved point for tls4. The solution was obtained by Nick
+          Sahinidis and Mohit Tawarmalani using BARON in the paper
+          "A polyhedral branch-and-cut approach to global
+          optimization" to appear in Math. Prog.
+
+10/26/04:
+--------
+Facility layout problems fo7_2, fo7, fo8, fo9, m3, m6, m7, o7_2, and
+          o7 added. Tapio Westerlund contributed these. The original
+          models are part of the AlphaECP package. These are difficult
+          convex models.
+
+New improved points for def1, dosemin3d, eniplac, fuzzy, hda and
+          waterz. The solutions were obtained by AOA, the AIMMS Outer
+          Approximation algorithm. The points were contributed by
+          Marcel Hunting.
+
+07/17/03:
+--------
+tls4.gms: A solution of value 9.30 has been found by by a novel
+           simplicial-approximation based algorithm (Goyal and
+           Ierapetritou). The solution is recorded in point tls4.p2.
+
+07/02/03:
+---------
+mbtd.gms added: A GAMS Development client model.
+
+prob02.gms, prob03.gms, prob10.gms added: Example models from the AlphaECP
+           system by T. Westerlund and K. Lundqvist.
+
+11/06/02:
+---------
+Updated URL for MacMINLP.
+
+7/25/02:
+--------
+nvs01.gms-nvs24.gms added: A collection of small non-convex models from a 1985
+           paper by Gupta and Ravindran. The global optimum solution is known
+           for these problems. Contributed by Nick Sahinidis.
+
+product.gms and product2.gms: Two product positioning models contributed by Aldo
+           Vecchietti.
+
+fuzzy.gms and risk2b.gms: Two GAMS Development client models.
+
+du-opt5.gms, du-opt.gms, eg_all_s.gms eg_disc_s.gms eg_disc2_s.gms eg_int_s.gms:
+           Examples from Bram Schoonen's Master Thesis 'Mixed Integer Non-linear
+           Programming in Design Optimization"
+
+For all new models feasible (for nvs* problems even global optimal) points have
+been found and added to the library.
+
+07/24/02:
+---------
+windfac.gms, elf.gms, sep1.gms, pump.gms: Added initial values.
+
+10/15/01:
+---------
+lop97ic.gms: A solution of value 4284.59 has been found by
+           SBB/CONOPT3. The solution is recorded in point
+           lop97ic.p1.
+
+08/08/01:
+---------
+eniplac.gms added.
+
+06/28/01:
+---------
+nous1.gms N. Sahinidis reported an error in this model which caused
+          the infeasibility of the model. The RHS of equation e27
+          reads now 50 instead of 70. A global optimum point is also
+          added to the library.
+
+06/25/01:
+---------
+lop97icx.gms and lop97ic.gms added. The first one is derived from the
+latter by fixing variables that were zero in the relaxed problem. A
+solution of lop97icx.gms can be transfered into a solution of lop97ic.
+
+The references for the models have been redone.
+
+For models where the original source is available we have a link to
+this source.
+
+05/08/01:
+---------
+tln6.gms   The global solution of value 15.3 has been found by
+           BARON. The solution is recorded in point tln6.p2. This
+           updates the best know solution of value 15.6 which is
+           recorded in tln6.p1
+
+tln7.gms   The global solution of value 15.0 has been found by
+           BARON. The solution is recorded in point tln7.p2. This
+           updates the best know solution of value 19.5 which is
+           recorded in tln7.p1
+
+05/04/01:
+---------
+waste.gms: A solution of value 598.919176 has been found by
+           SBB/SNOPT/CONOPT. The solution is recorded in point
+           waste.p2. This updates the best know solution of value
+           696.69 which is recorded in waste.p1
+
+05/01/01:
+--------- 
+MINLPLib released with 136 model from 43 applications with 130 points.
+126 of the models have some best known solution. For 10 models we do
+not have an integer solution including 4 models for which we can't
+provide a solution of the relaxation.
+

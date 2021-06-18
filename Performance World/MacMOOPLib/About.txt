@@ -1,0 +1,3 @@
+MacMOOP is a collection of multiobjective optimizatin testproblems from Sven Leyffer. See the MacMOOP Collection. The GAMS models were translated by Andre Savistky as is from the original AMPL source (https://wiki.mcs.anl.gov/leyffer/index.php/MacMOOP).
+
+The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.

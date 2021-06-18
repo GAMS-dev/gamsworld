@@ -1,0 +1,107 @@
+Set i         /A , B1 , B2 ,  NA , C  , CAL /;
+Set MINREQ(i) /A , B1 , B2 ,       C  , CAL /;
+* nutrients with minimum requirements
+Set MAXREQ(i) /A , NA , CAL /;
+* nutrients with maximum requirements
+
+Set NUTR(i) ;
+        NUTR(i) = Yes ;
+* nutrients
+
+Set FOOD /BEEF , CHK , FISH , HAM , MCH , MTL , SPG , TUR /;
+* foods
+
+Set STORE / "A&P"  , JEWEL , VONS / ;
+
+Table cost (store,food)
+             BEEF  CHK FISH  HAM  MCH  MTL  SPG  TUR
+      "A&P"  3.19 2.59 2.29 2.89 1.89 1.99 1.99 2.49
+     JEWEL   3.09 2.79 2.29 2.59 1.59 1.99 2.09 2.30
+      VONS   2.59 2.99 2.49 2.69 1.99 2.29 2.00 2.69 ;
+
+Table amt(food,i)
+                  A    C   B1   B2    NA   CAL
+          BEEF   60   20   10   15   938   295
+          CHK     8    0   20   20  2180   770
+          FISH    8   10   15   10   945   440
+          HAM    40   40   35   10   278   430
+          MCH    15   35   15   15  1182   315
+          MTL    70   30   15   15   896   400
+          SPG    25   50   25   15  1329   370
+          TUR    60   20   15   10  1397   450 ;
+
+Parameter  f_min /  BEEF       2 ,  CHK        2 ,
+                    FISH       2 ,  HAM        2 ,
+                    MCH        2 ,  MTL        2 ,
+                    SPG        2 ,  TUR        2 /;
+
+Parameter  f_max /  BEEF        10 ,  CHK         10 ,
+                    FISH        10 ,  HAM         10 ,
+                    MCH         10 ,  MTL         10 ,
+                    SPG         10 ,  TUR         10  /;
+
+Parameter n_min /   A      700 ,   C      700 ,
+                   B1       0 ,   B2       0 ,
+                   NA       0 ,   CAL  16000 /;
+
+Parameter n_max /   A      20000 ,   C           0 ,
+                   B1          0 ,   B2          0 ,
+                   NA      50000 ,   CAL     24000 /;
+
+Variable Buy(FOOD) ,  total_cost ,
+                                  total_cost1 ,
+                                  total_cost2 ,
+                                  total_cost3 ,
+                                                total_number ;
+
+Equation diet_min(i) , diet_max(i) , Def_obj_1 ,
+                                                Def_obj_1_1 ,
+                                                Def_obj_1_2 ,
+                                                Def_obj_1_3 ,
+                                                             Def_obj_2 ;
+
+diet_min(i)$MINREQ(i)..       sum{FOOD,amt[FOOD,i] * Buy[FOOD] } =g= n_min[i] ;
+diet_max(i)$MAXREQ(i)..       sum{FOOD,amt[FOOD,i] * Buy[FOOD] } =l= n_max[i];
+Def_obj_1.. total_cost   =e=  sum(store,sum(FOOD, cost[store,FOOD] * Buy[FOOD]));
+Def_obj_1_1.. total_cost1   =e=  sum(FOOD, cost['A&P',FOOD] * Buy[FOOD]);
+Def_obj_1_2.. total_cost2   =e=  sum(FOOD, cost['JEWEL',FOOD] * Buy[FOOD]);
+Def_obj_1_3.. total_cost3   =e=  sum(FOOD, cost['VONS',FOOD] * Buy[FOOD]);
+
+Def_obj_2.. total_number =e=  sum{food, Buy[food] } ;
+
+Buy.lo(FOOD) = f_min[FOOD] ;
+Buy.up(FOOD) = f_max[FOOD] ;
+* AMPL solution (SPLEX)
+*Buy.fx['BEEF'] =  2 ;
+*Buy.fx['CHK']  = 10 ;
+*Buy.fx['FISH'] =  2 ;
+*Buy.fx['HAM']  =  2 ;
+*Buy.fx['MCH']  =  2 ;
+*Buy.fx['MTL']  = 6.236 ;
+*Buy.fx['SPG']  = 5.258
+*Buy.fx['TUR']  =  2 ;
+
+
+
+
+
+Model dietobj_1 /diet_min , diet_max , Def_obj_1 /;
+Model dietobj_1_1 /diet_min , diet_max , Def_obj_1_1 /;
+Model dietobj_1_2 /diet_min , diet_max , Def_obj_1_2 /;
+Model dietobj_1_3 /diet_min , diet_max , Def_obj_1_3 /;
+Model dietobj_2 /diet_min , diet_max , Def_obj_2 /;
+
+Solve dietobj_1 using lp minimizing total_cost ;
+Display total_cost.l ;
+
+Solve dietobj_1_1 using lp minimizing total_cost1 ;
+Display total_cost1.l ;
+
+Solve dietobj_1_2 using lp minimizing total_cost2 ;
+Display total_cost2.l ;
+
+Solve dietobj_1_3 using lp minimizing total_cost3 ;
+Display total_cost3.l ;
+
+Solve dietobj_2 using lp minimizing total_number ;
+Display total_number.l ;

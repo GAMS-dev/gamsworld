@@ -1,0 +1,17 @@
+set OUTs;   # outputs
+
+param cost {INs} > 0;
+param in_min {INs} >= 0;
+param in_max {j in INs} >= in_min[j];
+
+param out_min {OUTs} >= 0;
+param out_max {i in OUTs} >= out_min[i];
+
+param io {INs,OUTs} >= 0;
+
+var X {j in INs} >= in_min[j], <= in_max[j];
+
+minimize total_cost:  sum {j in INs} cost[j] * X[j];
+
+subject to outputs {i in OUTs}:
+   out_min[i] <= sum {j in INs} io[j,i] * X[j] <= out_max[i];

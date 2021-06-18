@@ -1,0 +1,8 @@
+Selected Continuous Global Optimization Test Problems
+The models shown are a collection of continuous global optimization test problems originally used in
+
+A Numerical Evaluation of Several Stochastic Algorithms on Selected Continuous Global Optimization Test Problems, Ali, Khompatraporn and Zabinsky, Journal of Global Optimization (2005) 31:635-672.
+
+The model were made available by the authors of the article in their original C format. The models were translated into GAMS by Andre Savitsky. In order to minimize the chance of translation errors we have been sampling random points and evaluating the objective of these points. The results have been exported and were compared in a C program (testme.c) that used the original C model. Minor adjustments to the C models have been done and users of the C files are advised to compare them with versions distributed by the authors of the paper. The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. The global optimum reported in the paper has been added to the scalar model.
+
+* The GAMS model translations have an additional objective variable which models the objective function to optimize. This results in the models having variables and number of nonzeroes which are one greater than the C implementations. The model statistics listed are from the original C model representations as they are given in the reference above.

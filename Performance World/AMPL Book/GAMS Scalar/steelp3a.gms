@@ -1,0 +1,91 @@
+Set T /t1*t4 / ;
+* number of weeks
+Set PRODUCT / bands , coils /;
+* products
+
+Parameter rate[PRODUCT]         /  bands    200   , coils 140 / ;
+* tons per hour produced
+Parameter inv0[PRODUCT]         /  bands     10   , coils   0 / ;
+* initial inventory
+Parameter prodcost[PRODUCT]     /  bands     10   , coils  11 / ;
+* cost/ton produced
+Parameter invcost[PRODUCT]      /  bands      2.5 , coils   3 / ;
+* carrying cost/ton of inventory
+Parameter avail_min[T]     / t1   35 , t2   35 , t3   30 ,  t4   35      / ;
+* unpenalized hours available
+Parameter avail_max[T]     / t1   42 , t2   42 , t3   40 ,  t4   42      / ;
+* total hours available
+Parameter time_penalty[T]  / t1 3100 , t2 3000 , t3 3700 ,  t4 3100      / ;
+
+Table revenue[PRODUCT,T]
+                 t1    t2    t3    t4
+       bands     25    26    27    27
+       coils     30    35    37    39 ;
+* revenue/ton sold
+
+Table commit[PRODUCT,T]
+                 t1    t2    t3    t4
+       bands   3500  5900  3900  6400
+       coils   2500  2400  3400  4100 ;
+* minimum tons sold in week
+
+Table market[PRODUCT,T]
+                 t1    t2    t3    t4
+       bands   6000  6000  4000  6500
+       coils   4000  2500  3500  4200 ;
+* limit on tons sold in week
+
+Positive Variable Make[PRODUCT,T] ,
+* tons produced
+                  Inv[PRODUCT,T]  ,
+* tons inventoried
+                  Sell1[PRODUCT,T],
+* tons sold above commitment
+                  Sell0[PRODUCT,T],
+* tons sold below commitment
+                  Use1[T]         ,
+                  Use2[T]         ;
+
+Variable
+         total_profit ;
+
+Equation Eq_time(T) , Eq_balance(PRODUCT,T) , Def_obj ;
+
+Eq_time(T)..
+   sum{PRODUCT, (1/rate[PRODUCT]) * Make[PRODUCT,T] } =e= Use1[T] + Use2[T] ;
+* Total of hours used by all products
+* may not exceed hours available, in each week
+
+Eq_balance(PRODUCT,T)..
+   Make[PRODUCT,T] + Inv[PRODUCT,T-1]$(ord(T) gt 1)
+                   + inv0[PRODUCT]$(ord(T) eq 1)  =e= (commit[PRODUCT,T] +
+                                                       Sell1[PRODUCT,T]  -
+                                                       Sell0[PRODUCT,T]) +
+                                                       Inv[PRODUCT,T]      ;
+* Initial inventory must equal given value
+* Tons produced and taken from inventory
+* must equal tons sold and put into inventory
+
+Def_obj.. total_profit =e=
+              sum{(PRODUCT,T),( revenue[PRODUCT,T]*(commit[PRODUCT,T]+
+                                                     Sell1[PRODUCT,T]-
+                                                     Sell0[PRODUCT,T]) -
+                                prodcost[PRODUCT] * Make[PRODUCT,T] -
+                                invcost[PRODUCT] * Inv[PRODUCT,T]
+                 )            } -
+              sum{T,time_penalty[T]*Use2[T]} -
+              sum{(PRODUCT,T), 1000000.0 * Sell0[PRODUCT,T]
+                 }  ;
+
+* Objective: total revenue less costs in all weeks
+
+Sell1.up[PRODUCT,T] = market[PRODUCT,T]-commit[PRODUCT,T] ;
+Sell0.up[PRODUCT,T] = commit[PRODUCT,T]                   ;
+Use1.up[T]          = avail_min[T]                        ;
+Use2.up[T]          = avail_max[T]-avail_min[T]           ;
+
+Model steelp3a /all/;
+
+Solve steelp3a using nlp maximazing total_profit ;
+
+Display total_profit.l ;

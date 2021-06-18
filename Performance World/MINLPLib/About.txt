@@ -1,0 +1,38 @@
+MINLP Library
+MINLPLib is a collection of Mixed Integer Nonlinear Programming models. The purpose of the collection is to provide algorithm developers with a large and varied set of both theoretical and practical test models.
+
+MINLPLib Organization
+
+The models
+==========
+
+The original algebraic models have been translated into a scalar format in
+which documentation and comments have been removed, sets and set operators
+have been unrolled, and the original data and structure of the model have
+disappeared. This kind of model represenation has the advantage of an easy
+translation into different languages and also hides propriotary
+information. The latter is neccessary because the library contains
+confidential models. For the purpose of algorithm development the
+representaton of the model is not of much importantance. The models are
+identified by their unique name (e.g. batch.gms).
+
+The points
+==========
+
+For a model in the MINLPLib we will collect points. A point might represent a
+solution to the relaxed problem or a solution to the MINLP. The point is stored
+in a GDX file and can be loaded into the model using command 'execute_loadpoint
+'name_p1.gdx'. Additional information about the point is stored in a file called
+points.htm. This file might contain the contributor of the point, the solution
+value, the algorithm which was used to produce the point, and the CPU time for
+finding the point. The points are part of the library. They are indentified by
+the model name plus the extension _p1.gdx, _p2.gdx, _p3.gdx, ... (e.g. batch_p1.gdx).
+
+In order to start a model from a certain point you can run gams in the
+following way:
+
+	  gams batch u1=loadpoint --pfile batch_p1.gdx
+
+In case you liked the old point format. You can use the GDX utility gdxdump to
+generate ASCII based point format: 'gdxdump batch_p1.gdx format=gamsbas > batch.p1'
+and then run the model: 'gams batch u1=batch.p1'.
