@@ -1,4 +1,0 @@
-MIPLIB 2010
-The MIPLIB is a famous library of mixed integer programming problem instances. This copy of the MIPLIB 2010 features the instances in a format conventient for GAMS users. The original MIPLIB 2010 with more statistical information, classifications, references and so on on the individual instances can be found at miplib.zib.de.
-
-The GAMS and GDX files were produced by Stefan Vigerske from the original MPS files with the help of the mps2gms tool.

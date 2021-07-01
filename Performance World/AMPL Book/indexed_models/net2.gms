@@ -1,0 +1,87 @@
+$ontext
+GAMS - General Algebraic Modeling System AMPL Book Model Library
+
+Copyright (c) 2019 GAMS Software GmbH <support@gams.com>
+Copyright (c) 2019 GAMS Development Corp. <support@gams.com>
+Copyright (c) 2019 Andre Savitsky <andresavit@yandex.ru>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+$offtext
+
+
+Set CITIES /NE , SE ,  BOS , EWR , BWI , ATL , MCO , PITT  /;
+Set D_CITY(CITIES) /  NE , SE  / ;
+Set W_CITY(CITIES) / BOS , EWR , BWI , ATL , MCO / ;
+Set p_city(CITIES) / PITT /;
+
+Alias(CITIES,CITIES_1);
+
+Set DW_LINKS(CITIES,CITIES_1) / NE.BOS , NE.EWR , NE.BWI ,
+                                SE.EWR , SE.BWI , SE.ATL , SE.MCO /;
+
+Set Add(CITIES,CITIES_1); Add(CITIES,CITIES_1) = yes$((p_city(CITIES))and(D_CITY(CITIES_1)));
+Set LINKS(CITIES,CITIES_1);  LINKS(CITIES,CITIES_1) = DW_LINKS(CITIES,CITIES_1)+ Add(CITIES,CITIES_1) ;
+
+
+Parameter p_supply; p_supply = 450 ;
+* amount available at plant
+Parameter Supply(CITIES);  Supply(CITIES)$p_city(CITIES) = p_supply ;
+
+Parameter w_demand(CITIES) / BOS  90 ,  EWR 120 ,  BWI 120 ,  ATL  70 ,  MCO  50 /;
+* amounts required at warehouses
+
+Parameter cost(CITIES,CITIES_1) /  PITT.NE    2.5 ,  PITT.SE    3.5 ,
+                                   NE.BOS     1.7 ,  NE.EWR     0.7 ,
+                                   NE.BWI     1.3 ,  SE.EWR     1.3 ,
+                                   SE.BWI     0.8 ,  SE.ATL     0.2 ,
+                                   SE.MCO     2.1 /    ;
+* shipment costs/100 packages
+
+Parameter capacity(CITIES,CITIES_1) /  PITT.NE        250 ,  PITT.SE        250 ,
+                                       NE.BOS         100 ,  NE.EWR         100 ,
+                                       NE.BWI         100 ,  SE.EWR         100 ,
+                                       SE.BWI         100 ,  SE.ATL         100 ,
+                                       SE.MCO         100 / ;
+* max packages that can be shipped
+
+
+
+Positive Variable Ship[CITIES,CITIES_1] ;
+* Ship -> packages to be shipped
+
+         Variable Total_Cost ;
+
+Equation Eq_Balance(CITIES) , Eq_check , Def_obj ;
+
+Eq_Balance(CITIES)..    supply[CITIES] +
+                        sum{CITIES_1$LINKS(CITIES_1,CITIES), Ship[CITIES_1,CITIES]} =e=
+                        w_demand[CITIES] +
+                        sum{CITIES_1$LINKS(CITIES,CITIES_1), Ship[CITIES,CITIES_1]} ;
+
+Eq_check.. p_supply  =e= sum{CITIES$W_CITY(CITIES),w_demand[CITIES]} ;
+
+Def_obj.. Total_Cost =e=  sum{(CITIES,CITIES_1)$LINKS(CITIES,CITIES_1),
+                                 cost[CITIES,CITIES_1] * Ship[CITIES,CITIES_1]};
+
+Ship.up[CITIES,CITIES_1] = capacity[CITIES,CITIES_1]
+
+Model net2 /all/;
+
+Solve net2 using lp minimizing total_cost ;
+
