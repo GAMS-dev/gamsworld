@@ -1,3 +1,0 @@
-The MPL Library is a collection of math programming models from MPL Model Library (Examples) (http://www.maximal-usa.com/mpllib/ **out of date/ unreachable). The GAMS models were translated by Andre Savistky as is from the original MPL source.
-
-The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.
