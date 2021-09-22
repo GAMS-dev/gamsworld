@@ -1,6 +1,58 @@
 # GLOBALLib Model Statistics
 GLOBALLib is a collection of Nonlinear Programming models. The purpose of the collection is to provide algorithm developer of global optimization codes with a large and varied set of both theoretical and practical test models.
 
+#GLOBALLib Organization
+
+The models
+==========
+
+The original algebraic models have been translated into a scalar format in
+which documentation and comments have been removed, sets and set operators
+have been unrolled, and the original data and structure of the model have
+disappeared. This kind of model represenation has the advantage of an easy
+translation into different languages and also hides propriotary
+information. The latter is neccessary because the library contains
+confidential models. For the purpose of algorithm development the
+representaton of the model is not of much importantance. The models are
+identified by their unique name (e.g. batch.gms).
+
+The points
+==========
+
+For a model in the GLOBALLib we will collect points. A point represent
+some solution to a problem. The header of the file containing a point
+explains the details of the point. It might contain the contributor of
+the point, the solution value, the algorithm which was used to produce
+the point, and the CPU time for finding the point. The points are part
+of the library. They are indentified by the model name plus the
+extension .p1, .p2, .p3, ... (e.g. ex4_1_1.p1).
+
+In order to start a model from a certain point you can run gams in the
+following way:
+
+	  gams ex4_1_1 u1=ex4_1_1.p1
+
+The controlling model globallib.gms
+===================================
+
+The library also contains the GAMS model globallib.gms that helps
+organizing the models and points in the GLOBALLib. All models are
+matched with propper references to contributors, publications, and
+application areas.
+
+The model also help to create batch execution scripts. For example. the
+following piece of GAMS code creates a batch script that runs models that
+come from the book "Handbook of Test Problems in Local and Global
+Optimization" by Floudas e.a. with solver OQGRG :
+
+file frs batch run script / rs.bat /;
+loop(m$mr(m,"r1"),
+  put frs "gams " m.tl:0 " nlp=oqgrg dnlp=oqgrg cns=oqgrg " /;
+  put$xp(m) xp.te(m);
+  put /;
+);
+
+
 GLOBALLib has been integrated into MINLPLib. This is an old version that is no-longer maintained.
 
 Total number of models:   397
