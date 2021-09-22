@@ -70,7 +70,7 @@ Total number of models:   31
 |firl1linfeps_nlp		 |NLP   |9713	|11534	 |412895 |7688	 | 	                  |
 |firl2l1alph_nlp		 |NLP   |7792	|9613	 |409053 |7688	 | 	                  |
 |firl2linfeps_nlp		 |NLP   |9030	|14712	 |1211486|11768	 | 	                  |
-|fir_socp_10_nlp		 |NLP   |307	|10		 |1711	 |2		 |[-1.7382](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Cone%20Library/points/fir_socp_10.p1)	          |
+|fir_socp_10_nlp		 |NLP   |307	|10		 |1711	 |2		 |[1.7382](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Cone%20Library/points/fir_socp_10.p1)	          |
 |fir_socp_20_nlp		 |NLP   |307	|15		 |3231	 |2	 	 |[1.04649](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Cone%20Library/points/fir_socp_20.p1)                    |
 |fir_socp_40_nlp		 |NLP   |307	|25		 |6271	 |2		 |1.0001	          |
 |fir_socp_80_nlp		 |NLP   |307	|45		 |12351	 |2	 	 |                    |
