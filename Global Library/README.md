@@ -8,7 +8,7 @@ Total number of models:   397
 |Name                    |Type  |#Eqns  |#Vars   |#NZ   |#NNZ    |Bestknown Objective |
 |------------------------|------|------:|-------:|-----:|-------:|-------------------:|
 |abel                    |NLP   |     15|      31|   101|      30|                    |
-|alkyl                   |NLP   |      8|      15|    32|      19|             -1.7650|
+|alkyl                   |NLP   |      8|      15|    32|      19|             [-1.7650](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/alkyl.p1)|
 |alkylation              |NLP   |     12|      11|    38|      14|                    |
 |arki0001                |NLP   |    514|    1031|  3814|     512|                    |
 |arki0002                |NLP   |   1977|    2457|  5777|    1064|                    |
@@ -38,7 +38,7 @@ Total number of models:   397
 |bayes2_20               |NLP   |     78|      87|   616|     440|                    |
 |bayes2_30               |NLP   |     78|      87|   619|     440|                    |
 |bayes2_50               |NLP   |     78|      87|   622|     440|                    |
- bearing                 |NLP   |     13|      14|    41|      28|              1.9517|
+ bearing                 |NLP   |     13|      14|    41|      28|              [1.9517](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/bearing.p1)|
  btest14                 |NLP   |     94|     136|   622|     224|                    |
  camcge                  |NLP   |    243|     280|  1356|     850|                    |
  camcns                  |CNS   |    243|     280|  1356|     850|                    |
@@ -55,99 +55,99 @@ Total number of models:   397
  chain400                |NLP   |    402|     803|  2804|    1203|                    |
  chain50                 |NLP   |     52|     103|   354|     153|                    |
  chakra                  |NLP   |     42|      63|   143|      41|                    |
- chance                  |NLP   |      4|       5|    17|       4|             29.8944|
+ chance                  |NLP   |      4|       5|    17|       4|             [29.8944](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/chance.p1)|
  chem                    |NLP   |      5|      12|    37|      11|                    |
  chenery                 |NLP   |     39|      44|   133|      56|                    |
- circle                  |NLP   |     10|       3|    30|      30|              4.5742|
+ circle                  |NLP   |     10|       3|    30|      30|              [4.5742](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/circle.p1)|
  demo7                   |NLP   |     58|      71|   295|      12|                    |
- dispatch                |NLP   |      3|       5|    12|       6|           3155.2879|
+ dispatch                |NLP   |      3|       5|    12|       6|           [3155.2879](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/dispatch.p1)|
  elec100                 |NLP   |    101|     301|   601|     600|                    |
  elec200                 |NLP   |    201|     601|  1201|    1200|                    |
  elec25                  |NLP   |     26|      76|   151|     150|                    |
  elec50                  |NLP   |     51|     151|   301|     300|                    |
  etamac                  |NLP   |     71|      98|   226|      35|                    |
- ex14_1_1                |NLP   |      5|       4|    14|       8|              0.0000|
- ex14_1_2                |NLP   |     10|       7|    43|      26|              0.0000|
- ex14_1_3                |NLP   |      5|       4|    14|       8|              0.0000|
+ ex14_1_1                |NLP   |      5|       4|    14|       8|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_1_1.p1)|
+ ex14_1_2                |NLP   |     10|       7|    43|      26|             [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_1_2.p1)|
+ ex14_1_3                |NLP   |      5|       4|    14|       8|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_1_3.p1)|
  ex14_1_4                |NLP   |      5|       4|    14|       6|                    |
- ex14_1_5                |NLP   |      7|       7|    34|      10|              0.0000|
- ex14_1_6                |NLP   |     16|      10|    62|      32|              0.0000|
+ ex14_1_5                |NLP   |      7|       7|    34|      10|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_1_5.p1)|
+ ex14_1_6                |NLP   |     16|      10|    62|      32|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_1_6.p1)|
  ex14_1_7                |NLP   |     18|      11|   118|     100|                    |
- ex14_1_8                |NLP   |      5|       4|    12|       6|              0.0000|
- ex14_1_9                |NLP   |      3|       3|     6|       2|              0.0000|
- ex14_2_1                |NLP   |      8|       6|    35|      24|              0.0000|
- ex14_2_2                |NLP   |      6|       5|    20|      12|              0.0000|
- ex14_2_3                |NLP   |     10|       7|    54|      40|              0.0000|
- ex14_2_4                |NLP   |      8|       6|    35|      24|              0.0000|
- ex14_2_5                |NLP   |      6|       5|    20|      12|              0.0000|
- ex14_2_6                |NLP   |      8|       6|    35|      24|              0.0000|
- ex14_2_7                |NLP   |     10|       7|    54|      40|              0.0000|
- ex14_2_8                |NLP   |      6|       5|    20|      12|              0.0000|
- ex14_2_9                |NLP   |      6|       5|    20|      12|              0.0000|
- ex2_1_1                 |NLP   |      2|       6|    11|       5|            -17.0000|
- ex2_1_10                |NLP   |     11|      21|   221|      20|          49318.0180|
- ex2_1_2                 |NLP   |      3|       7|    15|       5|           -213.0000|
- ex2_1_3                 |NLP   |     10|      14|    41|       4|            -15.0000|
- ex2_1_4                 |NLP   |      6|       7|    37|       1|            -11.0000|
- ex2_1_5                 |NLP   |     12|      11|   112|       7|           -268.0146|
- ex2_1_6                 |NLP   |      6|      11|    57|      10|            -39.0000|
- ex2_1_7                 |NLP   |     11|      21|   185|      20|          -4150.4101|
+ ex14_1_8                |NLP   |      5|       4|    12|       6|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_1_8.p1)|
+ ex14_1_9                |NLP   |      3|       3|     6|       2|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_1_9.p1)|
+ ex14_2_1                |NLP   |      8|       6|    35|      24|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_2_1.p1)|
+ ex14_2_2                |NLP   |      6|       5|    20|      12|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_2_2.p1)|
+ ex14_2_3                |NLP   |     10|       7|    54|      40|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_2_3.p1)|
+ ex14_2_4                |NLP   |      8|       6|    35|      24|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_2_4.p1)|
+ ex14_2_5                |NLP   |      6|       5|    20|      12|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_2_5.p1)|
+ ex14_2_6                |NLP   |      8|       6|    35|      24|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_2_6.p1)|
+ ex14_2_7                |NLP   |     10|       7|    54|      40|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_2_7.p1)|
+ ex14_2_8                |NLP   |      6|       5|    20|      12|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_2_8.p1)|
+ ex14_2_9                |NLP   |      6|       5|    20|      12|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex14_2_9.p1)|
+ ex2_1_1                 |NLP   |      2|       6|    11|       5|            [-17.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex2_1_1.p1)|
+ ex2_1_10                |NLP   |     11|      21|   221|      20|          [49318.0180](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex2_1_10.p1)|
+ ex2_1_2                 |NLP   |      3|       7|    15|       5|           [-213.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex2_1_2.p1)|
+ ex2_1_3                 |NLP   |     10|      14|    41|       4|            [-15.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex2_1_3.p1)|
+ ex2_1_4                 |NLP   |      6|       7|    37|       1|            [-11.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex2_1_4.p1)|
+ ex2_1_5                 |NLP   |     12|      11|   112|       7|           [-268.0146](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex2_1_5.p1)|
+ ex2_1_6                 |NLP   |      6|      11|    57|      10|            [-39.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex2_1_6.p1)|
+ ex2_1_7                 |NLP   |     11|      21|   185|      20|          [-4150.4101](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex2_1_7.p1)|
  ex2_1_8                 |NLP   |     11|      25|    73|      24|                    |
- ex2_1_9                 |NLP   |      2|      11|    21|      10|             -0.3750|
- ex3_1_1                 |NLP   |      7|       9|    21|       8|           7049.2480|
- ex3_1_2                 |NLP   |      7|       6|    30|      29|         -30665.5387|
- ex3_1_3                 |NLP   |      7|       7|    19|       8|           -310.0000|
- ex3_1_4                 |NLP   |      4|       4|    12|       3|             -4.0000|
- ex4_1_1                 |NLP   |      1|       2|     2|       1|             -7.4873|
+ ex2_1_9                 |NLP   |      2|      11|    21|      10|             [-0.3750](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex2_1_9.p1)|
+ ex3_1_1                 |NLP   |      7|       9|    21|       8|           [7049.2480](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex3_1_1.p1)|
+ ex3_1_2                 |NLP   |      7|       6|    30|      29|         [-30665.5387](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex3_1_2.p1)|
+ ex3_1_3                 |NLP   |      7|       7|    19|       8|           [-310.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex3_1_3.p1)|
+ ex3_1_4                 |NLP   |      4|       4|    12|       3|             [-4.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex3_1_4.p1)|
+ ex4_1_1                 |NLP   |      1|       2|     2|       1|             [-7.4873](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex4_1_1.p1)|
  ex4_1_2                 |NLP   |      1|       2|     2|       1|                    |
- ex4_1_3                 |NLP   |      1|       2|     2|       1|           -443.6717|
- ex4_1_4                 |NLP   |      1|       2|     2|       1|              0.0000|
+ ex4_1_3                 |NLP   |      1|       2|     2|       1|           [-443.6717](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex4_1_3.p1)|
+ ex4_1_4                 |NLP   |      1|       2|     2|       1|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex4_1_4.p1)|
  ex4_1_5                 |NLP   |      1|       3|     3|       2|                    |
- ex4_1_6                 |NLP   |      1|       2|     2|       1|              7.0000|
- ex4_1_7                 |NLP   |      1|       2|     2|       1|             -7.5000|
- ex4_1_8                 |NLP   |      2|       3|     5|       2|            -16.7389|
- ex4_1_9                 |NLP   |      3|       3|     7|       2|             -5.5080|
- ex5_2_2_case1           |NLP   |      7|      10|    30|       7|           -400.0000|
- ex5_2_2_case2           |NLP   |      7|      10|    30|       7|           -600.0000|
- ex5_2_2_case3           |NLP   |      7|      10|    30|       7|           -750.0000|
- ex5_2_4                 |NLP   |      7|       8|    28|      16|           -450.0000|
+ ex4_1_6                 |NLP   |      1|       2|     2|       1|              [7.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex4_1_6.p1)|
+ ex4_1_7                 |NLP   |      1|       2|     2|       1|             [-7.5000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex4_1_7.p1)|
+ ex4_1_8                 |NLP   |      2|       3|     5|       2|            [-16.7389](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex4_1_8.p1)|
+ ex4_1_9                 |NLP   |      3|       3|     7|       2|             [-5.5080](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex4_1_9.p1)|
+ ex5_2_2_case1           |NLP   |      7|      10|    30|       7|           [-400.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex5_2_2_case1.p1)|
+ ex5_2_2_case2           |NLP   |      7|      10|    30|       7|           [-600.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex5_2_2_case2.p1)|
+ ex5_2_2_case3           |NLP   |      7|      10|    30|       7|           [-750.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex5_2_2_case3.p1)|
+ ex5_2_4                 |NLP   |      7|       8|    28|      16|           [-450.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex5_2_4.p1)|
  ex5_2_5                 |NLP   |     20|      33|   239|     195|                    |
- ex5_3_2                 |NLP   |     17|      23|    64|      24|              1.8642|
+ ex5_3_2                 |NLP   |     17|      23|    64|      24|              [1.8642](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex5_3_2.p1)|
  ex5_3_3                 |NLP   |     54|      63|   288|     200|                    |
- ex5_4_2                 |NLP   |      7|       9|    21|       8|           7512.2301|
- ex5_4_3                 |NLP   |     14|      17|    43|      18|           4845.4620|
+ ex5_4_2                 |NLP   |      7|       9|    21|       8|           [7512.2301](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex5_4_2.p1)|
+ ex5_4_3                 |NLP   |     14|      17|    43|      18|           [4845.4620](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex5_4_3.p1)|
  ex5_4_4                 |NLP   |     20|      28|    76|      33|                    |
- ex6_1_1                 |NLP   |      7|       9|    25|      20|             -0.0202|
- ex6_1_2                 |NLP   |      4|       5|    13|      10|             -0.0325|
+ ex6_1_1                 |NLP   |      7|       9|    25|      20|             [-0.0202](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex6_1_1.p1)|
+ ex6_1_2                 |NLP   |      4|       5|    13|      10|             [-0.0325](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex6_1_2.p1)|
  ex6_1_3                 |NLP   |     10|      13|    43|      36|                    |
- ex6_1_4                 |NLP   |      5|       7|    22|      18|             -0.2945|
+ ex6_1_4                 |NLP   |      5|       7|    22|      18|             [-0.2945](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex6_1_4.p1)|
  ex6_2_10                |NLP   |      4|       7|    13|       6|                    |
  ex6_2_11                |NLP   |      2|       4|     7|       3|                    |
  ex6_2_12                |NLP   |      3|       5|     9|       4|                    |
  ex6_2_13                |NLP   |      4|       7|    13|       6|                    |
- ex6_2_14                |NLP   |      3|       5|     9|       4|             -0.6954|
+ ex6_2_14                |NLP   |      3|       5|     9|       4|             [-0.6954](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex6_2_14.p1)|
  ex6_2_5                 |NLP   |      4|      10|    19|       9|                    |
  ex6_2_6                 |NLP   |      2|       4|     7|       3|                    |
  ex6_2_7                 |NLP   |      4|      10|    19|       9|                    |
  ex6_2_8                 |NLP   |      2|       4|     7|       3|                    |
  ex6_2_9                 |NLP   |      3|       5|     9|       4|                    |
  ex7_2_1                 |NLP   |     15|       8|    46|      35|                    |
- ex7_2_2                 |NLP   |      6|       7|    17|      10|             -0.3888|
+ ex7_2_2                 |NLP   |      6|       7|    17|      10|             [-0.3888](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex7_2_2.p1)|
  ex7_2_3                 |NLP   |      7|       9|    21|      10|                    |
  ex7_2_4                 |NLP   |      5|       9|    18|      14|                    |
- ex7_3_1                 |NLP   |      8|       5|    17|       3|              0.3417|
- ex7_3_2                 |NLP   |      8|       5|    17|       3|              1.0899|
- ex7_3_3                 |NLP   |      9|       6|    22|       5|              0.8175|
+ ex7_3_1                 |NLP   |      8|       5|    17|       3|              [0.3417](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex7_3_1.p1)|
+ ex7_3_2                 |NLP   |      8|       5|    17|       3|              [1.0899](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex7_3_2.p1)|
+ ex7_3_3                 |NLP   |      9|       6|    22|       5|              [0.8175](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex7_3_3.p1)|
  ex7_3_4                 |NLP   |     18|      13|    53|      23|                    |
- ex7_3_5                 |NLP   |     16|      14|    46|      25|              1.2069|
- ex7_3_6                 |NLP   |     18|      18|    80|      54|              0.0000|
- ex8_1_1                 |NLP   |      1|       3|     3|       2|                    |
- ex8_1_2                 |NLP   |      1|       2|     2|       1|                    |
+ ex7_3_5                 |NLP   |     16|      14|    46|      25|              [1.2069](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex7_3_5.p1)|
+ ex7_3_6                 |NLP   |     18|      18|    80|      54|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex7_3_6.p1)|
+ ex8_1_1                 |NLP   |      1|       3|     3|       2|                    [-2.02180678337](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_1_1.p1)|
+ ex8_1_2                 |NLP   |      1|       2|     2|       1|                    [2.80345847804](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_1_2.p1)|
  ex8_1_3                 |NLP   |      1|       3|     3|       2|                    |
  ex8_1_4                 |NLP   |      1|       3|     3|       2|                    |
  ex8_1_5                 |NLP   |      1|       3|     3|       2|                    |
- ex8_1_6                 |NLP   |      1|       3|     3|       2|            -10.0860|
- ex8_1_7                 |NLP   |      6|       6|    20|      13|              0.0293|
+ ex8_1_6                 |NLP   |      1|       3|     3|       2|            [-10.0860](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_1_6.p1)|
+ ex8_1_7                 |NLP   |      6|       6|    20|      13|              [0.0293](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_1_7.p1)|
  ex8_2_1                 |NLP   |     32|      56|   166|     103|                    |
  ex8_2_1a                |NLP   |     32|      56|   166|     103|                    |
  ex8_2_1b                |NLP   |     34|      58|   170|     105|                    |
@@ -180,32 +180,32 @@ Total number of models:   397
  ex8_4_1                 |NLP   |     11|      23|    61|      40|                    |
  ex8_4_2                 |NLP   |     11|      25|    81|      60|                    |
  ex8_4_3                 |NLP   |     26|      53|   151|     100|                    |
- ex8_4_4                 |NLP   |     13|      18|    61|      36|              0.2125|
+ ex8_4_4                 |NLP   |     13|      18|    61|      36|              [0.2125](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_4_4.p1)|
  ex8_4_5                 |NLP   |     12|      16|    67|      55|                    |
  ex8_4_6                 |NLP   |      9|      15|    65|      56|                    |
  ex8_4_7                 |NLP   |     41|      63|   191|     140|                    |
  ex8_4_8                 |NLP   |     31|      43|   141|     130|                    |
  ex8_4_8_bnd             |NLP   |     31|      43|   141|     130|                    |
  ex8_5_1                 |NLP   |      5|       7|    21|      12|                    |
- ex8_5_2                 |NLP   |      5|       7|    21|      12|              0.0000|
- ex8_5_3                 |NLP   |      5|       6|    17|      10|             -0.0041|
- ex8_5_4                 |NLP   |      5|       6|    17|      10|             -0.0004|
- ex8_5_5                 |NLP   |      5|       6|    17|      10|             -0.0108|
- ex8_5_6                 |NLP   |      5|       7|    21|      12|             -0.0012|
+ ex8_5_2                 |NLP   |      5|       7|    21|      12|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_5_2.p1)|
+ ex8_5_3                 |NLP   |      5|       6|    17|      10|             [-0.0041](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_5_3.p1)|
+ ex8_5_4                 |NLP   |      5|       6|    17|      10|             [-0.0004](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_5_4.p1)|
+ ex8_5_5                 |NLP   |      5|       6|    17|      10|             [-0.0108](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_5_5.p1)|
+ ex8_5_6                 |NLP   |      5|       7|    21|      12|             [-0.0012](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex8_5_6.p1)|
  ex8_6_1                 |NLP   |     46|      76|   361|     315|                    |
  ex8_6_2                 |NLP   |      1|      31|    31|      30|                    |
- ex9_1_1                 |NLP   |     13|      14|    37|      10|            -13.0000|
- ex9_1_2                 |NLP   |     10|      11|    26|       8|            -16.0000|
- ex9_1_4                 |NLP   |     10|      11|    26|       8|            -37.0000|
- ex9_1_5                 |NLP   |     13|      14|    33|      10|             -1.0000|
- ex9_1_8                 |NLP   |     13|      15|    33|      10|             -3.2500|
- ex9_2_2                 |NLP   |     12|      11|    27|      10|             99.9999|
- ex9_2_3                 |NLP   |     16|      17|    45|      12|              0.0000|
- ex9_2_4                 |NLP   |      8|       9|    19|       6|              0.5000|
- ex9_2_5                 |NLP   |      8|       9|    22|       8|              5.0000|
- ex9_2_6                 |NLP   |     13|      17|    33|      16|             -1.0000|
- ex9_2_7                 |NLP   |     10|      11|    28|      10|             17.0000|
- ex9_2_8                 |NLP   |      6|       7|    14|       6|              1.5000|
+ ex9_1_1                 |NLP   |     13|      14|    37|      10|            [-13.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_1_1.p1)|
+ ex9_1_2                 |NLP   |     10|      11|    26|       8|            [-16.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_1_2.p1)|
+ ex9_1_4                 |NLP   |     10|      11|    26|       8|            [-37.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_1_4.p1)|
+ ex9_1_5                 |NLP   |     13|      14|    33|      10|             [-1.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_1_5.p1)|
+ ex9_1_8                 |NLP   |     13|      15|    33|      10|             [-3.2500](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_1_8.p1)|
+ ex9_2_2                 |NLP   |     12|      11|    27|      10|             [99.9999](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_2_2.p1)|
+ ex9_2_3                 |NLP   |     16|      17|    45|      12|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_2_3.p1)|
+ ex9_2_4                 |NLP   |      8|       9|    19|       6|              [0.5000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_2_4.p1)|
+ ex9_2_5                 |NLP   |      8|       9|    22|       8|              [5.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_2_5.p1)|
+ ex9_2_6                 |NLP   |     13|      17|    33|      16|             [-1.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_2_6.p1)|
+ ex9_2_7                 |NLP   |     10|      11|    28|      10|             [17.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_2_7.p1)|
+ ex9_2_8                 |NLP   |      6|       7|    14|       6|              [1.5000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ex9_2_8.p1)|
  fct                     |DNLP  |     10|      12|    43|      26|                    |
  filter                  |NLP   |      2|       3|     5|       3|                    |
  flowchan100             |NLP   |   2399|    2401| 18186|    1600|                    |
@@ -225,13 +225,13 @@ Total number of models:   397
  gsg_0001                |NLP   |    112|      78|   369|      44|                    |
  gtm                     |NLP   |     25|      64|   162|      20|                    |
  harker                  |NLP   |      8|      21|    61|      20|                    |
- haverly                 |NLP   |     10|      13|    34|       7|            900.0000|
+ haverly                 |NLP   |     10|      13|    34|       7|            [900.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/haverly.p1)|
  hhfair                  |NLP   |     26|      30|    81|      21|                    |
- himmel16                |NLP   |     22|      19|    97|      84|              0.8660|
- house                   |NLP   |      9|       9|    26|       9|          -2625.0000|
+ himmel16                |NLP   |     22|      19|    97|      84|             [ 0.8660](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/himmel16.p1)|
+ house                   |NLP   |      9|       9|    26|       9|          [-2625.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/house.p1)|
  hs62                    |NLP   |      2|       4|     7|       6|                    |
- hydro                   |NLP   |     25|      32|    67|      12|        4366944.1598|
- immun                   |NLP   |      8|      22|    64|       6|              0.0000|
+ hydro                   |NLP   |     25|      32|    67|      12|        [4366944.1598](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/hydro.p1)|
+ immun                   |NLP   |      8|      22|    64|       6|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/immun.p1)|
  infeas1                 |NLP   |   1615|     273|  9139|    3895|                    |
  jbearing100             |NLP   |      1|    5305|  5305|    5304|                    |
  jbearing25              |NLP   |      1|    1405|  1405|    1404|                    |
@@ -240,7 +240,7 @@ Total number of models:   397
  korcge                  |NLP   |     78|      96|   346|     200|                    |
  korcns                  |CNS   |     78|      96|   346|     200|                    |
  launch                  |NLP   |     29|      39|   108|      52|                    |
- least                   |NLP   |      1|       4|     4|       3|          14085.1398|
+ least                   |NLP   |      1|       4|     4|       3|          [14085.1398](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/least.p1)|
  like                    |NLP   |      4|      10|    17|       9|                    |
  linear                  |DNLP  |     21|      25|   121|      20|                    |
  lnts100                 |NLP   |    401|     507|  2002|    1200|                    |
@@ -252,7 +252,7 @@ Total number of models:   397
  mathopt3                |NLP   |      8|       7|    43|      24|                    |
  mathopt4                |NLP   |      3|       3|     7|       4|                    |
  maxmin                  |DNLP  |     78|      27|   390|     312|                    |
- meanvar                 |NLP   |      3|       9|    23|       7|              5.2434|
+ meanvar                 |NLP   |      3|       9|    23|       7|              [5.2434](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/meanvar.p1)|
  methanol100             |NLP   |   2998|    3006| 16381|    5895|                    |
  methanol200             |NLP   |   5998|    6006| 32581|   11595|                    |
  methanol400             |NLP   |  11998|   12006| 64981|   22995|                    |
@@ -263,8 +263,8 @@ Total number of models:   397
  minsurf25               |NLP   |      1|    1405|  1405|    1404|                    |
  minsurf50               |NLP   |      1|    2705|  2705|    2704|                    |
  minsurf75               |NLP   |      1|    4005|  4005|    4004|                    |
- nemhaus                 |NLP   |      6|       6|    11|       5|             31.0000|
- otpop                   |NLP   |     77|     104|   268|      83|              0.0000|
+ nemhaus                 |NLP   |      6|       6|    11|       5|             [31.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/nemhaus.p1)|
+ otpop                   |NLP   |     77|     104|   268|      83|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/otpop.p1)|
  pindyck                 |NLP   |     97|     117|   337|      80|                    |
  pinene100               |NLP   |   4996|    5006| 23036|    5560|                    |
  pinene200               |NLP   |   9996|   10006| 45936|   10960|                    |
@@ -281,15 +281,15 @@ Total number of models:   397
  prob06                  |NLP   |      2|       2|     4|       4|                    |
  prob07                  |NLP   |     36|      15|   110|      63|                    |
  prob09                  |NLP   |      1|       3|     3|       2|                    |
- process                 |NLP   |      8|      11|    28|      11|             -5.6733|
+ process                 |NLP   |      8|      11|    28|      11|             [-5.6733](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/process.p1)|
  prolog                  |NLP   |     23|      21|   129|      14|                    |
  qp1                     |NLP   |      3|      51|   148|      50|                    |
  qp2                     |NLP   |      3|      51|   148|      50|                    |
  qp3                     |NLP   |     53|     101|  2748|     100|                    |
  qp4                     |NLP   |     32|      80|  1581|      29|                    |
- qp5                     |NLP   |     32|     109|  1639|       0|              0.4315|
- ramsey                  |NLP   |     23|      34|    77|      22|             -1.4931|
- rbrock                  |NLP   |      1|       3|     3|       2|              0.0000|
+ qp5                     |NLP   |     32|     109|  1639|       0|              [0.4315](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/qp5.p1)|
+ ramsey                  |NLP   |     23|      34|    77|      22|             [-1.4931](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/ramsey.p1)|
+ rbrock                  |NLP   |      1|       3|     3|       2|              [0.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/rbrock.p1)|
  robot100                |NLP   |    803|    1113|  3907|    2503|                    |
  robot200                |NLP   |   1603|    2213|  7807|    5003|                    |
  robot400                |NLP   |   3203|    4413| 15607|   10003|                    |
@@ -298,8 +298,8 @@ Total number of models:   397
  rocket200               |NLP   |   1003|    1208|  5207|    3603|                    |
  rocket400               |NLP   |   2003|    2408| 10407|    7203|                    |
  rocket50                |NLP   |    253|     308|  1307|     903|                    |
- sambal                  |NLP   |     11|      18|    48|      13|              3.9682|
- sample                  |NLP   |      3|       5|    13|       8|            726.6794|
+ sambal                  |NLP   |     11|      18|    48|      13|              [3.9682](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/sambal.p1)|
+ sample                  |NLP   |      3|       5|    13|       8|            [726.6794](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/sample.p1)|
  ship                    |NLP   |     17|      11|    53|      31|                    |
  srcpm                   |NLP   |     28|      40|   163|       5|                    |
  st_bpaf1a               |NLP   |     11|      11|    56|      10|                    |
@@ -396,7 +396,7 @@ Total number of models:   397
  torsion75               |NLP   |      5|    4009| 16021|    8006|                    |
  trig                    |NLP   |      2|       2|     3|       2|                    |
  turkey                  |NLP   |    288|     519|  4646|      55|                    |
- wall                    |NLP   |      6|       6|    20|      10|              1.0000|
+ wall                    |NLP   |      6|       6|    20|      10|              [1.0000](https://git.gams.com/mdekhil/gamsworld/-/blob/master/Global%20Library/points/wall.p1)|
  water                   |DNLP  |     26|      42|   113|      46|                    |
  weapons                 |NLP   |     13|      66|   156|      65|                    |
  worst                   |NLP   |     30|      35|   112|      53|                    |
