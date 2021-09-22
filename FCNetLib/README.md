@@ -22,6 +22,9 @@ F. Ortega and L.A. Wolsey. A branch-and-cut algorithm for the single-commodity, 
 
 **FCNetLib Model Statistics** 
 
+Total number of models:   83
+
+
 |Name	     |#Eqns	 |#Vars	|#NZ   |BestInt	                 |BestBnd	               |rel.Gap
 |------------|------:|-----:|-----:|------------------------:|------------------------:|-----:|
 |beasleyC1	 |1751	 |2501	|6251  |85.00	                 |85.00		               |	  |

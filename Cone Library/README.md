@@ -3,7 +3,7 @@
 CONELib is a collection of CONIC Programming (in particular second order cone programming - SOCP) models. 
 The purpose of the collection is to provide algorithm developer of cone optimization codes with a large and varied set of both theoretical and practical test models.
 
-#CONELib Organization
+**CONELib Organization**
 
 The models
 ==========
@@ -55,7 +55,7 @@ The collection has models from different stages of the modeling process. This me
 The scalar models are maintained in the GAMS language. In order to make the models widely available GAMS World offers an automatic translation service which converts any GAMS model into a scalar model of a particular language (including AMPL, BARON, GAMS, LINGO, MINOPT etc.)
 The actual translation is done by a special 'solver' called convert that comes with every GAMS system. So users with a recent GAMS system can do the scalar model generation with their GAMS system.
 
-# CONELib Model Statistics
+**CONELib Model Statistics**
 
 Conic Models converted to NLP format using GAMS/CONVERT. Access the CONELIB using conic constraints.
 

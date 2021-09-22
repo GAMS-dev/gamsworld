@@ -4,6 +4,10 @@ The MPL Library is a collection of math programming models from MPL Model Librar
 
 The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated. 
 
+**MPL Model Statistics** 
+
+Total number of models:   70
+
 |Name                           |Type |#Eqns  |#Vars  |#NZ    |#NNZ  |Bestknown Objective      |
 |-------------------------------|-----|------:|------:|------:|-----:|------------------------:|
 |exmpl1-1_breckanddapper		|LP	  |6	  |7	  |27	  |0	|162962.85714286		   |

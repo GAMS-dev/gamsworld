@@ -1,7 +1,8 @@
 # GLOBALLib Model Statistics
 GLOBALLib is a collection of Nonlinear Programming models. The purpose of the collection is to provide algorithm developer of global optimization codes with a large and varied set of both theoretical and practical test models.
+GLOBALLib has been integrated into MINLPLib. This is an old version that is no-longer maintained.
 
-#GLOBALLib Organization
+**GLOBALLib Organization**
 
 The models
 ==========
@@ -53,7 +54,7 @@ loop(m$mr(m,"r1"),
 );
 
 
-GLOBALLib has been integrated into MINLPLib. This is an old version that is no-longer maintained.
+**GLOBALLib Model Statistics** 
 
 Total number of models:   397
 

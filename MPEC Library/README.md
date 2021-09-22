@@ -52,7 +52,7 @@ The scalar models are maintained in the GAMS language. In order to make the mode
 The actual translation is done by a special 'solver' called convert that comes with every GAMS system, so users with a recent GAMS system can do the scalar model generation locally.
 
 
-# MPECLib Model Statistics
+**MPECLib Model Statistics**
 
 Total number of models:  92
 

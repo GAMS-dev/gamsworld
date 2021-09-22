@@ -13,6 +13,7 @@ The raw GAMS models were converted into GAMS scalar format using the CONVERT fac
 The GAMS model translations have an additional objective variable which models the objective function to optimize. This results in the models having variables and number of nonzeroes which are one greater than the C implementations. 
 The model statistics listed are from the original C model representations as they are given in the reference above.
 
+**SELCONGLOBAL Model Statistics** 
 
 Total number of models:   55
 

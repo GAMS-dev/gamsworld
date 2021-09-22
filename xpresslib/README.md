@@ -5,6 +5,9 @@ The GAMS models were translated by Andre Savistky as is from the original XPRESS
 
 The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.
 
+**FCNetLib Model Statistics** 
+
+Total number of models:   28
 
 |Directory Name	        							|XPRESS   |GAMS  |Missing |XPRESS Solution Unknown  |
 |---------------------------------------------------|---------|-----:|-------:|------------------------:|
@@ -36,5 +39,3 @@ The raw GAMS models were converted into GAMS scalar format using the CONVERT fac
 |SP													|15	      |13	 |2	      |4                        |
 |Kalis Features										|26	      |26	 |0	      |0                        |
 |Kalis User Guide Examples							|38	      |38	 |0	      |0                        |
-
-|Total:												|298      |263	 |35      |57                       |

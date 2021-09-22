@@ -13,6 +13,8 @@ only the first solve instance is translated.
 
 Fourer, R., Gay, D.M., and Kernighan, B.W. The AMPL Book. AMPL: A Modeling Language for Mathematical Programming, Duxbury Press, Brooks/Cole Publishing Company, 2002. 
 
+**LINLib Model Statistics** 
+
 Total number of models:   699
 
 |Name        		|Type   |#Eqns  |#Vars  |Binary Vars    |Other Discrete Vars|#NZ        |#Q Matrices|Max NZ in Q Matrices|Max Rows in Q Matrices|Best Solution|

@@ -6,8 +6,9 @@ This copy of the MIPLIB 2010 features the instances in a format conventient for 
 
 The original MIPLIB 2010 with more statistical information, classifications, references and so on on the individual instances can be found at http://www.miplib.zib.de.
 
+**MIPLIB Model Statistics** 
 
-
+Total number of models:   361
 
 |Name			    |Rows	  |Cols	   |NZs	    |Int	|Bin	 |Con	  |Objective	            |GAMS File	  			  |GDX File                 |
 |-------------------|--------:|-------:|-------:|------:|-------:|-------:|------------------------:|------------------------:|------------------------:|

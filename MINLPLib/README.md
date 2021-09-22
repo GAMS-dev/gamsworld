@@ -28,6 +28,10 @@ In order to start a model from a certain point you can run gams in the following
 In case you liked the old point format. You can use the GDX utility gdxdump to generate ASCII based point format: 'gdxdump batch_p1.gdx format=gamsbas > batch.p1'
 and then run the model: 'gams batch u1=batch.p1'.
 
+**MINLP Model Statistics** 
+
+Total number of models:   269
+
 
 |Name           |#Eqns |#Vars   |#DVars |#NZ    |#NNZ  |BestInt                |
 |---------------|------|-------:|------:|------:|-----:|----------------------:|

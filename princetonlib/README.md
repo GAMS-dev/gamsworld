@@ -7,10 +7,13 @@ The original models were in AMPL format and collected by Robert Vanderbei and co
 
 The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.
 
-**Reference 
+**Reference** 
 
 Nonlinear Optimization Models, collected by Robert Vanderbei and colleagues. (https://vanderbei.princeton.edu/ampl/nlmodels/)
 
+**FCNetLib Model Statistics** 
+
+Total number of models:   34
 
 
 |Group Name                                 |Directory Name  |AMPL |GAMS  |Missing |AMPL Solution Unknown    |
@@ -49,5 +52,3 @@ Nonlinear Optimization Models, collected by Robert Vanderbei and colleagues. (ht
 |Structural Optimization					|structure		|10	   |10	  |0       |0                        |
 |Traffic Equilibrium						|braess			|5	   |5	  |0       |0                        |
 |Trajectory Optimization					|robotarm		|6	   |6	  |0       |0                        |
-																				   
-|Total										|               |1224  |1224  |0       |228                      |

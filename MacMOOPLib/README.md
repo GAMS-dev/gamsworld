@@ -4,6 +4,8 @@ MacMOOP is a collection of multiobjective optimizatin testproblems from Sven Ley
 
 The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.
 
+**MacMOOP Model Statistics** 
+
 Total number of models:   14
 
 |Name        |Type  |#Eqns |#Vars |#NZ   |#NNZ  |Bestknown Objective      |

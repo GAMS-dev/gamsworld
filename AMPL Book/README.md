@@ -13,6 +13,8 @@ only the first solve instance is translated.
 
 Fourer, R., Gay, D.M., and Kernighan, B.W. The AMPL Book. AMPL: A Modeling Language for Mathematical Programming, Duxbury Press, Brooks/Cole Publishing Company, 2002. 
 
+**AMPLBookLib Model Statistics** 
+
 Total number of models:   51
 
 |Name        |Type  |#Eqns |#Vars |#NZ   |#NNZ  |Bestknown Objective      |
