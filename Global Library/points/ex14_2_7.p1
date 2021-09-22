@@ -1,0 +1,18 @@
+$ontext
+Solution found by BARON
+Solution value: 0.0
+$offtext 
+ e1.m =    1.00000000000    ;
+ e6.m = EPS ; 
+ e7.m = EPS ; 
+ e8.m = EPS ; 
+ e9.m = EPS ; 
+ e10.m = EPS ; 
+$offlisting
+ x1.l =   0.322381000000    ;
+ x2.l =   0.322502000000    ;
+ x3.l =   0.222344000000    ;
+ x4.l =   0.132774000000    ;
+ x5.l =    63.5589000000    ;
+ x7.m =    1.00000000000    ;
+ objvar.l = 0.0;

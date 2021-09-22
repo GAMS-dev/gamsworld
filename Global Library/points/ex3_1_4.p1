@@ -1,0 +1,11 @@
+$ontext
+Solution found by BARON
+Solution value: -4.00000000000
+$offtext 
+ e1.m =    1.00000000000    ;
+ e2.m =   0.200000000000    ;
+ x1.l =    2.00000000000    ;
+ x1.m =   -1.20000000000    ;
+ x2.m =   0.800000000000    ;
+ objvar.l =   -4.00000000000    ;
+$offlisting
