@@ -1,13 +1,12 @@
-#  Antenna Array Synthesis (Coleman)
+#  Mosel modeling examples
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
+Total number of models:   6
 
-Total number of models:   5
-
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name  | Type | #Eqns | #Vars | #NZ | #NNZ | Bestknown Objective |
+|-------|------|-------|-------|-----|------|---------------------|
+| blend | LP   | 3     | 3     | 7   | 0    | 3618.94736842       |
+| coco  | MIP  | 63    | 99    | 303 | 0    | 157050.00000000     |
+| coco1 | MIP  | 5     | 5     | 13  | 0    | 93500.00000000      |
+| coco2 | LP   | 5     | 5     | 13  | 0    | 93500.00000000      |
+| coco3 | LP   | 57    | 89    | 273 | 0    | 420535.00000000     |
+| fstns | MIP  | 7     | 7     | 23  | 0    | 2.00000000          |

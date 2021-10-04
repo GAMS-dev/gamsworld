@@ -1,13 +1,12 @@
-#  Antenna Array Synthesis (Coleman)
+#  Loading and cutting stock problems
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
+Total number of models:   6
 
-Total number of models:   5
-
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name     | Type | #Eqns | #Vars | #NZ | #NNZ | Bestknown Objective |
+|----------|------|-------|-------|-----|------|---------------------|
+| d1wagon  | MIP  | 19    | 49    | 99  | 0    | 99.00000000         |
+| d2ship   | LP   | 2     | 8     | 15  | 0    | 30000.00000000      |
+| d3tanks  | MIP  | 15    | 46    | 136 | 0    | 4000.00000000       |
+| d4backup | MIP  | 35    | 49    | 160 | 0    | 3.00000000          |
+| d5cutsh  | MIP  | 5     | 17    | 51  | 0    | 12.00000000         |
+| d6cutbar | MIP  | 4     | 13    | 32  | 0    | 2070.00000000       |

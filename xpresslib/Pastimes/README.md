@@ -1,13 +1,12 @@
-#  Antenna Array Synthesis (Coleman)
+#  Pastimes
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
+Total number of models:   6
 
-Total number of models:   5
-
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name       | Type | #Eqns | #Vars | #NZ | #NNZ | Bestknown Objective |
+|------------|------|-------|-------|-----|------|---------------------|
+| k1masterm  | MIP  | 13    | 25    | 81  | 0    | 0.00000000          |
+| k2marath   | MIP  | 21    | 37    | 101 | 0    | 0.00000000          |
+| k3congress | MIP  | 26    | 126   | 459 | 0    | 0.00000000          |
+| k4even     | MIP  | 10    | 25    | 57  | 0    | 0.00000000          |
+| k5nephew   | MIP  | 25    | 31    | 109 | 0    | 0.00000000          |
+| k6queens   | MIP  | 47    | 65    | 321 | 0    | 8.00000000          |

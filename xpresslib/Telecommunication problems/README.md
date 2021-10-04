@@ -1,13 +1,12 @@
-#  Antenna Array Synthesis (Coleman)
+#  Telecommunication problems
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
+Total number of models:   6
 
-Total number of models:   5
-
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name       | Type | #Eqns | #Vars | #NZ | #NNZ | Bestknown Objective |
+|------------|------|-------|-------|-----|------|---------------------|
+| g1rely     | MIP  | 20    | 45    | 116 | 0    | 4.00000000          |
+| g2dimens   | MIP  | 12    | 51    | 141 | 0    | 251.00000000        |
+| g3routing  | MIP  | 11    | 18    | 73  | 0    | 380.00000000        |
+| g4cable    | MIP  | 37    | 37    | 176 | 0    | 470.00000000        |
+| g5satell   | MIP  | 12    | 17    | 52  | 0    | 13.00000000         |
+| g6transmit | MIP  | 17    | 23    | 64  | 0    | 109.00000000        |

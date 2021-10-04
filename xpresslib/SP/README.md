@@ -1,13 +1,19 @@
-#  Antenna Array Synthesis (Coleman)
+#  SP
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
+Total number of models:   13
 
-Total number of models:   5
-
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name                        | Type | #Eqns | #Vars | #NZ  | #NNZ | Bestknown Objective |
+|-----------------------------|------|-------|-------|------|------|---------------------|
+| airlift                     | LP   | 9     | 13    | 39   | 0    | 226021.36000000     |
+| alm                         | LP   | 3     | 14    | 27   | 0    | -1.07973571         |
+| analysisoffarmerproblem     | LP   | 6     | 11    | 26   | 0    | -204000.00000000    |
+| ato                         | LP   | 9     | 17    | 37   | 0    | 1125.00000000       |
+| capacityexpansionexhaustive | LP   | 26    | 49    | 133  | 0    | 117533.80000000     |
+| capacityexpansionexplicit   | LP   | 26    | 49    | 133  | 0    | 104756.60000000     |
+| capacityexpansionstage      | LP   | 26    | 49    | 133  | 0    | 107336.80000000     |
+| forestrelax                 | NLP  | 133   | 189   | 731  | 336  | 48901881.67202460   |
+| forestrelaxdoc              | NLP  | 133   | 189   | 731  | 336  | 48901881.67202460   |
+| ht_simple                   | LP   | 809   | 791   | 4394 | 0    | 4865.34168774       |
+| optioncontract              | NLP  | 10    | 15    | 32   | 0    | 2886.04400000       |
+| optionpricing               | LP   | 8     | 15    | 29   | 0    | 70.34030361         |
+| stochasticstockbondanalysis | LP   | 5     | 9     | 17   | 0    | 27.42187500         |

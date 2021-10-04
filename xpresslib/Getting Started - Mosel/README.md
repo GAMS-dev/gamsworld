@@ -1,13 +1,19 @@
-#  Antenna Array Synthesis (Coleman)
+#  Getting Started - Mosel
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
+Total number of models:   13
 
-Total number of models:   5
-
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name         | Type | #Eqns | #Vars | #NZ | #NNZ | Bestknown Objective |
+|--------------|------|-------|-------|-----|------|---------------------|
+| assign       | MIP  | 13    | 37    | 109 | 0    | 193.00000000        |
+| foliodata    | LP   | 4     | 11    | 30  | 0    | 14.06666667         |
+| folioexcel   | LP   | 4     | 11    | 30  | 0    | 14.06666667         |
+| foliograph   | LP   | 4     | 11    | 30  | 0    | 24.70000000         |
+| folioheur    | MIP  | 15    | 21    | 60  | 0    | 13.10000000         |
+| foliolp      | LP   | 4     | 11    | 30  | 0    | 14.06666667         |
+| foliolperr   | LP   | 4     | 11    | 30  | 0    | 14.06666667         |
+| foliolps     | LP   | 4     | 11    | 30  | 0    | 14.06666667         |
+| foliomip1    | MIP  | 15    | 21    | 60  | 0    | 13.10000000         |
+| foliomip2    | MIP  | 4     | 11    | 30  | 0    | 14.06666667         |
+| folioodbc    | LP   | 4     | 11    | 30  | 0    | 14.06666667         |
+| folioqp      | LP   | 4     | 11    | 30  | 0    | 14.06666667         |
+| folioqpgraph | NLP  | 4     | 11    | 35  | 10   | 8.01000000          |

@@ -1,13 +1,12 @@
-#  Antenna Array Synthesis (Coleman)
+#  Timetabling and personnel planning
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
+Total number of models:   6
 
-Total number of models:   5
-
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name     | Type | #Eqns | #Vars | #NZ  | #NNZ | Bestknown Objective |
+|----------|------|-------|-------|------|------|---------------------|
+| i1assign | MIP  | 13    | 37    | 109  | 0    | 193.00000000        |
+| i2nurse  | MIP  | 13    | 13    | 57   | 0    | 101.00000000        |
+| i3school | MIP  | 329   | 361   | 1621 | 0    | 10.00000000         |
+| i4exam   | MIP  | 332   | 89    | 729  | 0    | 0.00000000          |
+| i5pplan  | LP   | 21    | 30    | 108  | 0    | 18882.97872340      |
+| i6build  | MIP  | 26    | 31    | 91   | 0    | 1780.00000000       |

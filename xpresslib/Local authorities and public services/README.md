@@ -1,13 +1,12 @@
-#  Antenna Array Synthesis (Coleman)
+#  Local authorities and public services
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
+Total number of models:   6
 
-Total number of models:   5
-
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name     | Type | #Eqns | #Vars | #NZ | #NNZ | Bestknown Objective |
+|----------|------|-------|-------|-----|------|---------------------|
+| j1water  | LP   | 11    | 21    | 39  | 0    | 52.00000000         |
+| j2bigbro | MIP  | 117   | 50    | 282 | 0    | 24.00000000         |
+| j3elect  | MIP  | 16    | 49    | 187 | 0    | 5.00000000          |
+| j4grit   | LP   | 13    | 133   | 295 | 0    | 4814.00000000       |
+| j5tax    | MIP  | 158   | 157   | 577 | 0    | 2438.00000000       |
+| j6hospit | LP   | 15    | 12    | 49  | 0    | 1.00000000          |

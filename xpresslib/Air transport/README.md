@@ -1,13 +1,14 @@
-#  Antenna Array Synthesis (Coleman)
+#  Air transport
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
 
-Total number of models:   5
+Total number of models:   7
 
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name      | Type | #Eqns | #Vars | #NZ  | #NNZ | Bestknown Objective |
+|-----------|------|-------|-------|------|------|---------------------|
+| f1connect | MIP  | 13    | 37    | 109  | 0    | 112.00000000        |
+| f2crew    | MIP  | 9     | 16    | 46   | 0    | 4.00000000          |
+| f3landing | MIP  | 121   | 76    | 361  | 0    | 700.00000000        |
+| f4hub     | MIP  | 2630  | 1303  | 7567 | 0    | 42153794.00000000   |
+| f4hub2    | MIP  | 2615  | 1303  | 6829 | 0    | 49726090.00000000   |
+| f5tour    | MIP  | 47    | 507   | 1519 | 0    | 3858.00000000       |
+| f5tour2   | MIP  | 15    | 43    | 127  | 0    | 2220.00000000       |

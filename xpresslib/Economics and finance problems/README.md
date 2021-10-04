@@ -1,13 +1,14 @@
-#  Antenna Array Synthesis (Coleman)
+#  Economics and finance problems
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
 
-Total number of models:   5
+Total number of models:   7
 
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name     | Type | #Eqns | #Vars | #NZ | #NNZ | Bestknown Objective |
+|----------|------|-------|-------|-----|------|---------------------|
+| h1loan   | LP   | 7     | 10    | 28  | 0    | 822180.65617668     |
+| h2publ   | MIP  | 3     | 7     | 19  | 0    | 122.00000000        |
+| h3portf  | LP   | 4     | 7     | 20  | 0    | 5755.00000000       |
+| h4retire | MIP  | 7     | 10    | 31  | 0    | 4909.41280478       |
+| h5budget | LP   | 13    | 25    | 48  | 0    | 3550.00000000       |
+| h6expand | MIP  | 6     | 6     | 29  | 0    | 19.89000000         |
+| h7qportf | NLP  | 3     | 5     | 12  | 3    | 0.00000000          |

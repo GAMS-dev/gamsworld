@@ -1,13 +1,14 @@
-#  Antenna Array Synthesis (Coleman)
+#  Moselug A2
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
+Total number of models:   8
 
-Total number of models:   5
-
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name     | Type | #Eqns | #Vars | #NZ | #NNZ | Bestknown Objective |
+|----------|------|-------|-------|-----|------|---------------------|
+| blend    | LP   | 3     | 3     | 7   | 0    | 3618.94736842       |
+| blend2   | LP   | 3     | 3     | 7   | 0    | 3618.94736842       |
+| blend3   | LP   | 3     | 3     | 7   | 0    | 3618.94736842       |
+| blend3e  | LP   | 3     | 3     | 7   | 0    | 3618.94736842       |
+| blend4   | LP   | 3     | 3     | 7   | 0    | 3618.94736842       |
+| burglar  | MIP  | 2     | 9     | 17  | 0    | 280.00000000        |
+| burglari | MIP  | 2     | 9     | 17  | 0    | 280.00000000        |
+| sp       | LP   | 1     | 1     | 1   | 0    | 1.00000000          |

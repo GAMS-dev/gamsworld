@@ -1,13 +1,17 @@
-#  Antenna Array Synthesis (Coleman)
+#  BCL Library
 
-https://vanderbei.princeton.edu/ampl/nlmodels/jeffc/antenna/index.html
 
-Total number of models:   5
+Total number of models:   10
 
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|nb_L1_eps		  |NLP	 |1477	 |1221	|170861 |1672   |0.04658866	 |
-|nb_L1_socp_ratio |NLP   |1883	 |1633	|171661 |2060   |0.00048498	 |
-|nb_L2			  |NLP   |4564	 |3205	|497833 |6084   |747.15007335|
-|nb_L2_nocheb	  |NLP   |1059	 |1221	|169603 |414	|214.44998979|
-|nbsup_L2		  |NLP   |3043	 |3205	|494791 |3042   |8.39581345  |
+| Name     | Type | #Eqns | #Vars | #NZ | #NNZ | Bestknown Objective |
+|----------|------|-------|-------|-----|------|---------------------|
+| chess1   | MIP  | 3     | 3     | 7   | 0    | 1142.85714286       |
+| contract | MIP  | 87    | 121   | 361 | 0    | 8050.00000000       |
+| delvr    | LP   | 18    | 71    | 208 | 0    | 5026.87000000       |
+| expl1    | MIP  | 13    | 38    | 80  | 0    | 6.00000000          |
+| expl2    | LP   | 18    | 47    | 139 | 0    | 26896.00000000      |
+| expl3    | MIP  | 3     | 3     | 7   | 0    | 0.00000000          |
+| portf1   | MIP  | 3     | 3     | 7   | 0    | 0.00000000          |
+| purch1   | LP   | 8     | 22    | 55  | 0    | 4474.37180169       |
+| setops1  | LP   | 8     | 22    | 55  | 0    | 4474.37180169       |
+| works    | LP   | 4     | 3     | 9   | 0    | 320.00000000        |
