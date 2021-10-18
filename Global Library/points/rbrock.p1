@@ -1,9 +1,0 @@
-$ontext
-Solution found by BARON
-Solution value: 0.0
-$offtext 
- e1.m =    1.00000000000    ;
- x2.l =   0.999999999942    ;
- x3.l =   0.999999999880    ;
- objvar.l = 0.0;
-
