@@ -1,0 +1,230 @@
+
+--- Job bchfcnet.gms Start 02/08/22 11:52:33 34.3.0 rac355f3 WEX-WEI x86 64bit/MS Windows
+--- Applying:
+    C:\GAMS\34\gmsprmNT.txt
+--- GAMS Parameters defined
+    Input C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\bchfcnet.gms
+    PageSize 0
+    ScrDir C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\225a\
+    SysDir C:\GAMS\34\
+    LogOption 3
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    ResLim 3600
+    LstTitleLeftAligned 1
+Licensee: Eval License                                   S211214|0002AW-GEN
+          Ostfalia Hochschule fuer angewandte Wissenschaften        DCE1645
+          C:\Users\dekhi\Documents\GAMS\gamslice.txt
+          License Admin: Mohamed Ali Dekhil, dekhil.medali@gmail.com       
+          Evaluation license: Not for commercial or production use
+GAMS 34.3.0   Copyright (C) 1987-2021 GAMS Development. All rights reserved
+--- Starting compilation
+--- bchfcnet.gms(34) 2 Mb
+--- . decl.gms(15) 2 Mb
+--- bchfcnet.gms(38) 2 Mb
+--- . beasleyC2.inc(1277) 3 Mb
+--- bchfcnet.gms(67) 3 Mb
+--- . equs.gms(20) 3 Mb
+--- bchfcnet.gms(97) 3 Mb
+--- call rm -f bchout_i.gdx startcut.txt startheur.txt cuthist.gdx agap.txt rgap.txt cntfail.txt
+--- bchfcnet.gms(118) 3 Mb
+--- Starting execution: elapsed 0:00:00.094
+--- bchfcnet.gms(1335) 4 Mb
+--- GDX File (execute_unload) C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\net.gdx
+--- bchfcnet.gms(1426) 4 Mb
+--- GDXin=C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\points\beasleyC2.gdx
+--- bchfcnet.gms(1426) 5 Mb
+--- GDX File (execute_load) C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\points\beasleyC2.gdx
+--- Generating MIP model master
+--- bchfcnet.gms(1430) 5 Mb
+---   1,751 rows  2,501 columns  6,251 non-zeroes
+---   1,250 discrete-columns
+--- Executing CPLEX (Solvelink=2): elapsed 0:00:00.129
+
+IBM ILOG CPLEX   34.3.0 rac355f3 Released Feb 25, 2021 WEI x86 64bit/MS Window
+
+--- GAMS/Cplex Link licensed for continuous and discrete problems.
+
+Reading parameter(s) from "C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\cplex.op2"
+>>  mipstart 1
+Finished reading from "C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\cplex.op2"
+
+--- Space for names approximately 0.09 Mb
+--- Use option 'names no' to turn use of names off
+--- GMO memory 0.99 Mb (peak 1.01 Mb)
+--- Dictionary memory 0.00 Mb
+--- Cplex 20.1.0.0 link memory 0.07 Mb (peak 0.28 Mb)
+--- Starting Cplex
+
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Display                             4
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_MIP_Tolerances_AbsMIPGap                0
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Generic callback                                 0x50
+Processing 1 MIP starts.
+MIP start 'm1' defined solution with objective 144.0000.
+1 of 1 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 144.0000.
+Tried aggregator 2 times.
+MIP Presolve eliminated 707 rows and 571 columns.
+MIP Presolve added 546 rows and 0 columns.
+MIP Presolve modified 1 coefficients.
+Aggregator did 190 substitutions.
+Reduced MIP has 1399 rows, 1740 columns, and 3918 nonzeros.
+Reduced MIP has 870 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (18.78 ticks)
+Probing fixed 0 vars, tightened 3 bounds.
+Probing time = 0.00 sec. (0.23 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+MIP Presolve modified 7 coefficients.
+Reduced MIP has 1399 rows, 1740 columns, and 3918 nonzeros.
+Reduced MIP has 870 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (8.01 ticks)
+Probing time = 0.00 sec. (0.23 ticks)
+Clique table members: 5.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: none, using 1 thread.
+Tried aggregator 1 time.
+LP Presolve eliminated 651 rows and 683 columns.
+Aggregator did 219 substitutions.
+Reduced LP has 513 rows, 838 columns, and 2114 nonzeros.
+Presolve time = 0.00 sec. (1.11 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             9.000000
+Iteration:    62   Dual objective     =            36.888889
+Initializing dual steep norms . . .
+Root relaxation solution time = 0.00 sec. (2.76 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                          144.0000        7.0000            95.14%
+Found incumbent of value 144.000000 after 0.03 sec. (32.58 ticks)
+      0     0       47.4167    44      144.0000       47.4167      124   67.07%
+      0     0       81.8580    55      144.0000      Cuts: 72      170   43.15%
+      0     0       92.0540    81      144.0000      Cuts: 78      245   36.07%
+      0     0      100.2371    71      144.0000      Cuts: 70      321   30.39%
+      0     0      106.4748    66      144.0000      Cuts: 68      399   26.06%
+      0     0      108.8679    54      144.0000      Cuts: 63      452   24.40%
+Detecting symmetries...
+      0     0      112.7530    61      144.0000      Cuts: 59      516   21.70%
+      0     0      114.8116    64      144.0000      Cuts: 56      580   20.27%
+      0     0      117.5578    58      144.0000      Cuts: 41      643   18.36%
+      0     0      119.0497    79      144.0000      Cuts: 50      684   17.33%
+      0     0      120.3284    65      144.0000      Cuts: 44      736   16.44%
+      0     0      121.4601    75      144.0000      Cuts: 44      792   15.65%
+      0     0      122.3692    69      144.0000      Cuts: 74      834   15.02%
+      0     0      122.6759    71      144.0000      Cuts: 58      882   14.81%
+      0     0      123.4218    90      144.0000      Cuts: 35      928   14.29%
+      0     0      124.0657    75      144.0000      Cuts: 45      982   13.84%
+      0     0      124.5943    81      144.0000      Cuts: 47     1047   13.48%
+      0     0      124.7883    67      144.0000      Cuts: 36     1088   13.34%
+      0     0      125.0908    75      144.0000      Cuts: 26     1127   13.13%
+      0     0      125.3661    63      144.0000      Cuts: 37     1208   12.94%
+      0     0      126.0485    76      144.0000      Cuts: 44     1256   12.47%
+      0     0      126.6901    92      144.0000      Cuts: 86     1321   12.02%
+      0     0      127.2776    76      144.0000      Cuts: 85     1405   11.61%
+      0     0      127.8131    81      144.0000      Cuts: 31     1450   11.24%
+      0     0      128.2232    88      144.0000      Cuts: 71     1522   10.96%
+      0     0      128.4271    93      144.0000      Cuts: 80     1586   10.81%
+      0     0      128.5982    91      144.0000      Cuts: 37     1615   10.70%
+      0     0      128.9468   100      144.0000      Cuts: 31     1670   10.45%
+      0     0      129.3637   101      144.0000      Cuts: 99     1753   10.16%
+      0     0      129.9641    89      144.0000      Cuts: 82     1814    9.75%
+      0     0      130.5072   112      144.0000      Cuts: 67     1914    9.37%
+      0     0      131.0898    92      144.0000      Cuts: 52     2020    8.97%
+      0     0      131.6526   119      144.0000      Cuts: 60     2139    8.57%
+      0     0      131.9841   114      144.0000      Cuts: 83     2251    8.34%
+      0     0      132.2255   109      144.0000      Cuts: 74     2318    8.18%
+      0     0      132.5437   111      144.0000      Cuts: 77     2404    7.96%
+      0     0      132.7713   114      144.0000      Cuts: 68     2485    7.80%
+      0     0      132.9380    77      144.0000      Cuts: 59     2561    7.68%
+      0     0      133.2333   124      144.0000      Cuts: 88     2669    7.48%
+      0     0      133.7234   126      144.0000     Cuts: 178     2817    7.14%
+      0     0      134.0204   123      144.0000      Cuts: 77     2896    6.93%
+      0     0      134.3749   112      144.0000      Cuts: 65     2976    6.68%
+      0     0      134.4274   127      144.0000      Cuts: 71     3032    6.65%
+      0     0      134.4597   128      144.0000      Cuts: 25     3104    6.63%
+Detecting symmetries...
+      0     2      134.4597   125      144.0000      134.4598     3104    6.63%
+Elapsed time = 0.76 sec. (845.50 ticks, tree = 0.01 MB, solutions = 1)
+     31    23      137.3737   128      144.0000      134.6247     6452    6.51%
+                                                     Cuts: 23                  
+     85    53      136.1093    87      144.0000      135.4004    10295    5.97%
+                                                     Cuts: 17                  
+    124    66      139.5551   116      144.0000      135.9821    13779    5.57%
+                                                     Cuts: 27                  
+    160    86      139.3791    93      144.0000      136.2455    16774    5.39%
+                                                     Cuts: 14                  
+    197   110      138.3425    73      144.0000      136.5135    20501    5.20%
+                                                     Cuts: 18                  
+    235   123      139.9345    68      144.0000      136.6698    23641    5.09%
+                                                      Cuts: 8                  
+    283   141      141.5863    99      144.0000      137.3737    27887    4.60%
+                                                  Flowcuts: 1                  
+    306   143      138.2904    75      144.0000      137.9568    30977    4.20%
+                                                     Cuts: 11                  
+    353   160      140.8273    97      144.0000      138.3236    33960    3.94%
+                                                     Cuts: 12                  
+    584   227        cutoff            144.0000      139.6460    45585    3.02%
+                                                     Cuts: 16                  
+Elapsed time = 3.80 sec. (4024.21 ticks, tree = 1.67 MB, solutions = 1)
+    817   194      142.6680    81      144.0000      141.0727    57380    2.03%
+                                                     Cuts: 14                  
+
+Clique cuts applied:  1
+Cover cuts applied:  6
+Implied bound cuts applied:  3
+Flow cuts applied:  228
+Mixed integer rounding cuts applied:  53
+Flow path cuts applied:  3
+Zero-half cuts applied:  27
+Multi commodity flow cuts applied:  2
+Lift and project cuts applied:  2
+Gomory fractional cuts applied:  13
+
+Root node processing (before b&c):
+  Real time             =    0.76 sec. (841.34 ticks)
+Sequential b&c:
+  Real time             =    4.53 sec. (4951.92 ticks)
+                          ------------
+Total (root+branch&cut) =    5.30 sec. (5793.26 ticks)
+
+--- MIP status (101): integer optimal solution.
+--- Cplex Time: 5.30sec (det. 5793.27 ticks)
+
+--- Fixing integer variables and solving final LP...
+
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Advance                                 2
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Display                             4
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_MIP_Tolerances_AbsMIPGap                0
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Tried aggregator 1 time.
+LP Presolve eliminated 1750 rows and 2501 columns.
+All rows and columns eliminated.
+Presolve time = 0.02 sec. (0.92 ticks)
+
+--- Fixed MIP status (1): optimal.
+--- Cplex Time: 0.02sec (det. 1.50 ticks)
+
+
+Proven optimal solution
+MIP Solution:          144.000000    (66054 iterations, 1143 nodes)
+Final Solve:           144.000000    (0 iterations)
+
+Best possible:         144.000000
+Absolute gap:            0.000000
+Relative gap:            0.000000
+
+--- Reading solution for model master
+*** Status: Normal completion
+--- Job bchfcnet.gms Stop 02/08/22 11:52:38 elapsed 0:00:05.471

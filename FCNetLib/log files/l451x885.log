@@ -1,0 +1,253 @@
+
+--- Job bchfcnet.gms Start 02/08/22 17:26:58 34.3.0 rac355f3 WEX-WEI x86 64bit/MS Windows
+--- Applying:
+    C:\GAMS\34\gmsprmNT.txt
+--- GAMS Parameters defined
+    Input C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\bchfcnet.gms
+    PageSize 0
+    ScrDir C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\225a\
+    SysDir C:\GAMS\34\
+    LogOption 3
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    ResLim 3600
+    LstTitleLeftAligned 1
+Licensee: Eval License                                   S211214|0002AW-GEN
+          Ostfalia Hochschule fuer angewandte Wissenschaften        DCE1645
+          C:\Users\dekhi\Documents\GAMS\gamslice.txt
+          License Admin: Mohamed Ali Dekhil, dekhil.medali@gmail.com       
+          Evaluation license: Not for commercial or production use
+GAMS 34.3.0   Copyright (C) 1987-2021 GAMS Development. All rights reserved
+--- Starting compilation
+--- bchfcnet.gms(34) 2 Mb
+--- . decl.gms(15) 2 Mb
+--- bchfcnet.gms(38) 2 Mb
+--- . l451x885.inc(1827) 3 Mb
+--- bchfcnet.gms(67) 3 Mb
+--- . equs.gms(20) 3 Mb
+--- bchfcnet.gms(97) 3 Mb
+--- call rm -f bchout_i.gdx startcut.txt startheur.txt cuthist.gdx agap.txt rgap.txt cntfail.txt
+--- bchfcnet.gms(118) 3 Mb
+--- Starting execution: elapsed 0:00:00.098
+--- bchfcnet.gms(1885) 4 Mb
+--- GDX File (execute_unload) C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\net.gdx
+--- bchfcnet.gms(1976) 4 Mb
+--- GDXin=C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\points\l451x885.gdx
+--- GDX File (execute_load) C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\points\l451x885.gdx
+--- Generating MIP model master
+--- bchfcnet.gms(1980) 5 Mb
+---   1,337 rows  1,771 columns  4,876 non-zeroes
+---   885 discrete-columns
+--- Executing CPLEX (Solvelink=2): elapsed 0:00:00.179
+
+IBM ILOG CPLEX   34.3.0 rac355f3 Released Feb 25, 2021 WEI x86 64bit/MS Window
+
+--- GAMS/Cplex Link licensed for continuous and discrete problems.
+
+Reading parameter(s) from "C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\cplex.op2"
+>>  mipstart 1
+Finished reading from "C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\cplex.op2"
+
+--- Space for names approximately 0.07 Mb
+--- Use option 'names no' to turn use of names off
+--- GMO memory 0.86 Mb (peak 0.87 Mb)
+--- Dictionary memory 0.00 Mb
+--- Cplex 20.1.0.0 link memory 0.05 Mb (peak 0.20 Mb)
+--- Starting Cplex
+
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Display                             4
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_MIP_Tolerances_AbsMIPGap                0
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Generic callback                                 0x50
+Processing 1 MIP starts.
+MIP start 'm1' defined solution with objective 431050.0000.
+1 of 1 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 431050.0000.
+Tried aggregator 2 times.
+MIP Presolve eliminated 450 rows and 451 columns.
+MIP Presolve modified 89 coefficients.
+Aggregator did 26 substitutions.
+Reduced MIP has 860 rows, 1294 columns, and 2598 nonzeros.
+Reduced MIP has 435 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (5.79 ticks)
+Probing time = 0.00 sec. (0.16 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 860 rows, 1294 columns, and 2598 nonzeros.
+Reduced MIP has 435 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (4.30 ticks)
+Probing time = 0.00 sec. (0.16 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: none, using 1 thread.
+Tried aggregator 1 time.
+LP Presolve eliminated 425 rows and 428 columns.
+Aggregator did 1 substitutions.
+Reduced LP has 434 rows, 865 columns, and 1740 nonzeros.
+Presolve time = 0.00 sec. (0.59 ticks)
+Initializing dual steep norms . . .
+
+Iteration log . . .
+Iteration:     1   Scaled dual infeas =          1180.000000
+Iteration:     6   Dual objective     =         26660.000000
+Iteration:    67   Dual objective     =         90619.612169
+Iteration:   129   Dual objective     =        149325.786540
+Iteration:   191   Dual objective     =        206303.325615
+Iteration:   253   Dual objective     =        257406.104661
+Iteration:   315   Dual objective     =        312452.686513
+Iteration:   377   Dual objective     =        366144.376833
+Initializing dual steep norms . . .
+Root relaxation solution time = 0.00 sec. (7.01 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                       431050.0000    12837.0000            97.02%
+Found incumbent of value 431050.000000 after 0.02 sec. (20.69 ticks)
+      0     0   399355.3611   139   431050.0000   399355.3611      430    7.35%
+      0     0   419317.4168   127   431050.0000     Cuts: 237      550    2.72%
+      0     0   423452.5104   146   431050.0000     Cuts: 222      632    1.76%
+      0     0   424348.2596   156   431050.0000     Cuts: 163      687    1.55%
+      0     0   424989.1075   154   431050.0000      Cuts: 97      742    1.41%
+      0     0   425473.7354   151   431050.0000     Cuts: 115      796    1.29%
+Detecting symmetries...
+      0     0   425731.4963   144   431050.0000      Cuts: 63      838    1.23%
+      0     0   425948.6028   144   431050.0000      Cuts: 45      874    1.18%
+      0     0   426062.6454   164   431050.0000      Cuts: 58      912    1.16%
+      0     0   426153.1879   155   431050.0000      Cuts: 84      938    1.14%
+      0     0   426246.3562   140   431050.0000      Cuts: 37      957    1.11%
+      0     0   426357.7775   160   431050.0000      Cuts: 36      986    1.09%
+      0     0   426434.3408   165   431050.0000      Cuts: 50     1006    1.07%
+      0     0   426467.1557   164   431050.0000      Cuts: 50     1033    1.06%
+      0     0   426482.4759   165   431050.0000      Cuts: 57     1050    1.06%
+Detecting symmetries...
+      0     2   426482.4759   165   431050.0000   426484.8324     1050    1.06%
+Elapsed time = 0.28 sec. (343.83 ticks, tree = 0.01 MB, solutions = 1)
+    180   157   427551.4902   126   431050.0000   426872.8826     3202    0.97%
+                                                     Cuts: 19                  
+    392   323   429016.6305    97   431050.0000   427029.8602     5664    0.93%
+                                                      Cuts: 9                  
+    584   449   430770.1687    77   431050.0000   427199.8147     8149    0.89%
+                                                     Cuts: 14                  
+    806   596   427618.2130   116   431050.0000   427390.9238    10676    0.85%
+                                                     Cuts: 10                  
+
+Performing restart 1
+
+Repeating presolve.
+Tried aggregator 1 time.
+MIP Presolve modified 247 coefficients.
+Reduced MIP has 860 rows, 1294 columns, and 2598 nonzeros.
+Reduced MIP has 435 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (3.95 ticks)
+Tried aggregator 1 time.
+MIP Presolve modified 17 coefficients.
+Reduced MIP has 860 rows, 1294 columns, and 2598 nonzeros.
+Reduced MIP has 435 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (4.28 ticks)
+Represolve time = 0.02 sec. (12.46 ticks)
+Tried aggregator 1 time.
+LP Presolve eliminated 174 rows and 170 columns.
+Aggregator did 1 substitutions.
+Reduced LP has 1083 rows, 1123 columns, and 8220 nonzeros.
+Presolve time = 0.00 sec. (1.15 ticks)
+Initializing dual steep norms . . .
+
+Iteration log . . .
+Iteration:     1   Scaled dual infeas =           980.000000
+Iteration:     5   Dual objective     =         26336.272576
+Iteration:    79   Dual objective     =        104232.055692
+Iteration:   150   Dual objective     =        169943.757525
+Iteration:   224   Dual objective     =        230116.578858
+Iteration:   299   Dual objective     =        293843.000000
+Iteration:   381   Dual objective     =        362192.174940
+Iteration:   489   Dual objective     =        408059.131476
+Iteration:   551   Dual objective     =        419626.141962
+Iteration:   625   Dual objective     =        424519.411440
+Iteration:   691   Dual objective     =        426165.002008
+Iteration:   754   Dual objective     =        426468.941988
+Initializing dual steep norms . . .
+    996     0   427256.2984   148   431050.0000     Cuts: 256    14302    0.84%
+    996     0   427953.1938   152   431050.0000     Cuts: 315    14433    0.72%
+    996     0   428449.9167   158   431050.0000     Cuts: 297    14545    0.60%
+    996     0   428917.3900   168   431050.0000     Cuts: 315    14657    0.49%
+    996     0   429216.7541   163   431050.0000     Cuts: 315    14774    0.43%
+    996     0   429530.5699   163   431050.0000     Cuts: 215    14897    0.35%
+    996     0   429630.7434   196   431050.0000     Cuts: 260    14986    0.33%
+    996     0   429677.9314   171   431050.0000     Cuts: 139    15052    0.32%
+    996     0   429712.8061   172   431050.0000     Cuts: 136    15126    0.31%
+    996     0   429737.4469   165   431050.0000     Cuts: 100    15177    0.30%
+    996     0   429882.6815   171   431050.0000     Cuts: 166    15290    0.27%
+    996     0   429977.3342   178   431050.0000     Cuts: 257    15423    0.25%
+    996     0   430033.1112   173   431050.0000     Cuts: 222    15514    0.24%
+    996     0   430094.6737   169   431050.0000     Cuts: 143    15616    0.22%
+    996     0   430185.3905   153   431050.0000     Cuts: 124    15775    0.20%
+    996     0   430241.5240   167   431050.0000     Cuts: 217    15886    0.19%
+    996     0   430262.8591   181   431050.0000      Cuts: 98    15952    0.18%
+    996     0   430283.5553   195   431050.0000      Cuts: 75    16003    0.18%
+    996     0   430325.9875   180   431050.0000     Cuts: 145    16083    0.17%
+    996     0   430371.4812   187   431050.0000     Cuts: 184    16178    0.16%
+    996     0   430404.8715   155   431050.0000     Cuts: 184    16273    0.15%
+    996     0   430424.7623   160   431050.0000      Cuts: 66    16355    0.15%
+    996     0   430450.3571   168   431050.0000     Cuts: 146    16445    0.14%
+    996     2   430450.3571   168   431050.0000   430450.3752    16445    0.14%
+    999     2   430613.3254   131   431050.0000   430455.0957    16810    0.14%
+   1008     4   430632.6198   148   431050.0000   430632.6757    17223    0.10%
+   1011     4   430747.0066   144   431050.0000   430643.5979    17382    0.09%
+
+Implied bound cuts applied:  19
+Flow cuts applied:  119
+Mixed integer rounding cuts applied:  173
+Flow path cuts applied:  12
+Lift and project cuts applied:  63
+Gomory fractional cuts applied:  58
+
+Root node processing (before b&c):
+  Real time             =    0.28 sec. (343.83 ticks)
+Sequential b&c:
+  Real time             =    3.64 sec. (4099.12 ticks)
+                          ------------
+Total (root+branch&cut) =    3.92 sec. (4442.95 ticks)
+
+--- MIP status (101): integer optimal solution.
+--- Cplex Time: 3.92sec (det. 4442.95 ticks)
+
+--- Fixing integer variables and solving final LP...
+
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Advance                                 2
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Display                             4
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_MIP_Tolerances_AbsMIPGap                0
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Tried aggregator 1 time.
+LP Presolve eliminated 959 rows and 1318 columns.
+Aggregator did 301 substitutions.
+Reduced LP has 76 rows, 152 columns, and 286 nonzeros.
+Presolve time = 0.00 sec. (1.04 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual infeasibility =             5.000000
+Iteration:    15   Dual objective     =        387524.000000
+Iteration:    76   Dual objective     =        406051.000000
+
+--- Fixed MIP status (1): optimal.
+--- Cplex Time: 0.00sec (det. 2.62 ticks)
+
+
+Proven optimal solution
+MIP Solution:       431050.000000    (17871 iterations, 1037 nodes)
+Final Solve:        431050.000000    (78 iterations)
+
+Best possible:      431050.000000
+Absolute gap:            0.000000
+Relative gap:            0.000000
+
+--- Reading solution for model master
+*** Status: Normal completion
+--- Job bchfcnet.gms Stop 02/08/22 17:27:02 elapsed 0:00:04.159

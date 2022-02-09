@@ -1,0 +1,170 @@
+
+--- Job bchfcnet.gms Start 02/08/22 17:06:04 34.3.0 rac355f3 WEX-WEI x86 64bit/MS Windows
+--- Applying:
+    C:\GAMS\34\gmsprmNT.txt
+--- GAMS Parameters defined
+    Input C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\bchfcnet.gms
+    PageSize 0
+    ScrDir C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\225a\
+    SysDir C:\GAMS\34\
+    LogOption 3
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    ResLim 3600
+    LstTitleLeftAligned 1
+Licensee: Eval License                                   S211214|0002AW-GEN
+          Ostfalia Hochschule fuer angewandte Wissenschaften        DCE1645
+          C:\Users\dekhi\Documents\GAMS\gamslice.txt
+          License Admin: Mohamed Ali Dekhil, dekhil.medali@gmail.com       
+          Evaluation license: Not for commercial or production use
+GAMS 34.3.0   Copyright (C) 1987-2021 GAMS Development. All rights reserved
+--- Starting compilation
+--- bchfcnet.gms(34) 2 Mb
+--- . decl.gms(15) 2 Mb
+--- bchfcnet.gms(38) 2 Mb
+--- . k14x182.inc(399) 3 Mb
+--- bchfcnet.gms(67) 3 Mb
+--- . equs.gms(20) 3 Mb
+--- bchfcnet.gms(97) 3 Mb
+--- call rm -f bchout_i.gdx startcut.txt startheur.txt cuthist.gdx agap.txt rgap.txt cntfail.txt
+--- bchfcnet.gms(118) 3 Mb
+--- Starting execution: elapsed 0:00:00.102
+--- bchfcnet.gms(457) 4 Mb
+--- GDX File (execute_unload) C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\net.gdx
+--- bchfcnet.gms(548) 4 Mb
+--- GDXin=C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\points\k14x182.gdx
+--- GDX File (execute_load) C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\points\k14x182.gdx
+--- Generating MIP model master
+--- bchfcnet.gms(552) 4 Mb
+---   197 rows  365 columns  1,093 non-zeroes
+---   182 discrete-columns
+--- Executing CPLEX (Solvelink=2): elapsed 0:00:00.116
+
+IBM ILOG CPLEX   34.3.0 rac355f3 Released Feb 25, 2021 WEI x86 64bit/MS Window
+
+--- GAMS/Cplex Link licensed for continuous and discrete problems.
+
+Reading parameter(s) from "C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\cplex.op2"
+>>  mipstart 1
+Finished reading from "C:\Users\dekhi\Desktop\gamsworld\FCNetLib\test\cplex.op2"
+
+--- Space for names approximately 0.01 Mb
+--- Use option 'names no' to turn use of names off
+--- GMO memory 0.57 Mb (peak 0.57 Mb)
+--- Dictionary memory 0.00 Mb
+--- Cplex 20.1.0.0 link memory 0.01 Mb (peak 0.04 Mb)
+--- Starting Cplex
+
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Display                             4
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_MIP_Tolerances_AbsMIPGap                0
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Generic callback                                 0x50
+Processing 1 MIP starts.
+MIP start 'm1' defined solution with objective 8491.0000.
+1 of 1 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 8491.0000.
+Tried aggregator 1 time.
+MIP Presolve eliminated 13 rows and 1 columns.
+MIP Presolve added 26 rows and 0 columns.
+Reduced MIP has 209 rows, 364 columns, and 754 nonzeros.
+Reduced MIP has 182 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.67 ticks)
+Probing time = 0.00 sec. (0.04 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 209 rows, 364 columns, and 754 nonzeros.
+Reduced MIP has 182 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.73 ticks)
+Probing time = 0.00 sec. (0.04 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: none, using 1 thread.
+Tried aggregator 1 time.
+LP Presolve eliminated 169 rows and 169 columns.
+Aggregator did 13 substitutions.
+Reduced LP has 27 rows, 182 columns, and 390 nonzeros.
+Presolve time = 0.00 sec. (0.18 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =          2485.865000
+Initializing dual steep norms . . .
+Root relaxation solution time = 0.02 sec. (0.34 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                         8491.0000        0.0000           100.00%
+Found incumbent of value 8491.000000 after 0.02 sec. (2.30 ticks)
+      0     0     3995.5140     9     8491.0000     3995.5140       12   52.94%
+      0     0     6703.9984    15     8491.0000      Cuts: 52       43   21.05%
+      0     0     6959.0227    20     8491.0000      Cuts: 32       69   18.04%
+      0     0     7341.6188    24     8491.0000      Cuts: 41       97   13.54%
+      0     0     7672.3394    28     8491.0000      Cuts: 52      135    9.64%
+      0     0     7840.3314    27     8491.0000      Cuts: 41      170    7.66%
+Detecting symmetries...
+      0     0     7938.4899    30     8491.0000      Cuts: 42      202    6.51%
+      0     0     7988.9625    39     8491.0000      Cuts: 41      249    5.91%
+      0     0     8029.5281    22     8491.0000      Cuts: 42      287    5.43%
+      0     0     8035.9133    24     8491.0000      Cuts: 19      315    5.36%
+      0     0     8056.3323    20     8491.0000      Cuts: 32      337    5.12%
+      0     0     8057.5972    21     8491.0000      Cuts: 11      345    5.10%
+      0     0     8059.0467    20     8491.0000       Cuts: 5      355    5.09%
+      0     0     8059.2797    21     8491.0000   Flowcuts: 1      361    5.08%
+      0     0     8059.4375    19     8491.0000   Flowcuts: 1      363    5.08%
+Detecting symmetries...
+      0     2     8059.4375    19     8491.0000     8059.6265      363    5.08%
+Elapsed time = 0.17 sec. (114.65 ticks, tree = 0.01 MB, solutions = 1)
+    482    96     8423.1668     8     8491.0000     8355.8238     6852    1.59%
+                                                     Cuts: 20                  
+
+Cover cuts applied:  8
+Implied bound cuts applied:  14
+Flow cuts applied:  31
+Mixed integer rounding cuts applied:  17
+Flow path cuts applied:  10
+Zero-half cuts applied:  5
+Gomory fractional cuts applied:  2
+
+Root node processing (before b&c):
+  Real time             =    0.19 sec. (114.64 ticks)
+Sequential b&c:
+  Real time             =    0.22 sec. (293.06 ticks)
+                          ------------
+Total (root+branch&cut) =    0.41 sec. (407.70 ticks)
+
+--- MIP status (101): integer optimal solution.
+--- Cplex Time: 0.41sec (det. 407.70 ticks)
+
+--- Fixing integer variables and solving final LP...
+
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Advance                                 2
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Display                             4
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_MIP_Tolerances_AbsMIPGap                0
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Tried aggregator 1 time.
+LP Presolve eliminated 196 rows and 365 columns.
+All rows and columns eliminated.
+Presolve time = 0.00 sec. (0.12 ticks)
+
+--- Fixed MIP status (1): optimal.
+--- Cplex Time: 0.00sec (det. 0.21 ticks)
+
+
+Proven optimal solution
+MIP Solution:         8491.000000    (8221 iterations, 664 nodes)
+Final Solve:          8491.000000    (0 iterations)
+
+Best possible:        8491.000000
+Absolute gap:            0.000000
+Relative gap:            0.000000
+
+--- Reading solution for model master
+*** Status: Normal completion
+--- Job bchfcnet.gms Stop 02/08/22 17:06:04 elapsed 0:00:00.553
