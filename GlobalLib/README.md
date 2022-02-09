@@ -31,7 +31,7 @@ extension .p1, .p2, .p3, ... (e.g. ex4_1_1.p1).
 In order to start a model from a certain point you can run gams in the
 following way:
 
-	  gams ex4_1_1 u1=ex4_1_1.p1
+	  gams ex4_1_1 u1=ex4_1_1.inc
 
 
 **GLOBALLib Model Statistics** 
