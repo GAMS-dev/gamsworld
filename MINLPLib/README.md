@@ -5,7 +5,7 @@ The purpose of the collection is to provide algorithm developers with a large an
 This is an old version of MINLPLib that is no-longer maintained. The current MINLPLib is available at http://www.minlplib.org/
 
 
-MINLPLib Organization
+**MINLPLib Organization**
 
 The models
 ==========
