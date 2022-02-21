@@ -542,7 +542,7 @@ Total number of models:   699
 |[sc105       ](http://www.netlib.org/lp/data/sc105                                           	  )|LP	    |105	|103	|0				|0					|281		|0			|0		 			 |0	    				|-52.2021	 |		
 |[sc205-2r-100](http://www.sztaki.hu/~meszaros/public_ftp/lptestse/stochlp/sc205-2r-100.gz  	  )|LP	    |2213	|2214	|0				|0					|6031	    |0			|0		 			 |0	    				|-10.0705	 |
 |[sc205-2r-16 ](http://www.sztaki.hu/~meszaros/public_ftp/lptestse/stochlp/sc205-2r-16.gz       )|LP	    |365	|366	|0				|0					|991		|0			|0		 			 |0	    				|-55.3877	 |			
-|[sc205-2r-1600(]http://www.sztaki.hu/~meszaros/public_ftp/lptestse/stochlp/sc205-2r-1600.gz 	  )|LP	    |35213	|35214	|0				|0					|96031	    |0			|0		 			 |0	    				|0.0000	 	 |
+|[sc205-2r-1600](http://www.sztaki.hu/~meszaros/public_ftp/lptestse/stochlp/sc205-2r-1600.gz 	  )|LP	    |35213	|35214	|0				|0					|96031	    |0			|0		 			 |0	    				|0.0000	 	 |
 |[sc205-2r-200](http://www.sztaki.hu/~meszaros/public_ftp/lptestse/stochlp/sc205-2r-200.gz  	  )|LP	    |4413	|4414	|0				|0					|12031	    |0			|0		 			 |0	    				|-10.0705	 |
 |[sc205-2r-27 ](http://www.sztaki.hu/~meszaros/public_ftp/lptestse/stochlp/sc205-2r-27.gz       )|LP	    |607	|608	|0				|0					|1651		|0			|0		 			 |0	    				|-15.1057	 |		
 |[sc205-2r-32 ](http://www.sztaki.hu/~meszaros/public_ftp/lptestse/stochlp/sc205-2r-32.gz       )|LP	    |717	|718	|0				|0					|1951		|0			|0		 			 |0	    				|-55.3877	 |		
