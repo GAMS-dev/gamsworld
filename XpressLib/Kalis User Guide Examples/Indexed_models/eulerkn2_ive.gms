@@ -1,0 +1,72 @@
+*****************************************************************
+*   CP example problems
+*   ===================
+*
+*   file eulerkn2_ive.mos
+*   `````````````````````
+*   Euler knight problem.
+*   Finding a tour on a chess-board for a knight figure,
+*   such that the knight moves through every cell exactly
+*   once and returns to its origin.
+*   - Alternative implementation using subtour elimination -
+*   - Graphical solution representation with IVE -
+*
+*   (c) 2005 Artelys S.A. and Dash Optimization
+*
+******************************************************************
+
+* model "Euler Knight Moves"
+* uses "kalis"
+
+* Number of rows/columns
+$Set S 8
+
+Set X / x1*x%S% / ;
+Set Y / y1*y%S% / ;
+
+Alias(X,XX) ;
+Alias(Y,YY) ;
+
+Set Connect(X,Y,XX,YY) ;
+
+Loop{(X,Y)   ,
+Loop{(XX,YY) ,
+Connect(X,Y,XX,YY)$((ord(XX) eq ord(X) + 2 ) and (ord(YY) eq ord(Y) + 1 )) = Yes ;
+Connect(X,Y,XX,YY)$((ord(XX) eq ord(X) + 2 ) and (ord(YY) eq ord(Y) - 1 )) = Yes ;
+Connect(X,Y,XX,YY)$((ord(XX) eq ord(X) - 2 ) and (ord(YY) eq ord(Y) + 1 )) = Yes ;
+Connect(X,Y,XX,YY)$((ord(XX) eq ord(X) - 2 ) and (ord(YY) eq ord(Y) - 1 )) = Yes ;
+Connect(X,Y,XX,YY)$((ord(XX) eq ord(X) + 1 ) and (ord(YY) eq ord(Y) + 2 )) = Yes ;
+Connect(X,Y,XX,YY)$((ord(XX) eq ord(X) + 1 ) and (ord(YY) eq ord(Y) - 2 )) = Yes ;
+Connect(X,Y,XX,YY)$((ord(XX) eq ord(X) - 1 ) and (ord(YY) eq ord(Y) + 2 )) = Yes ;
+Connect(X,Y,XX,YY)$((ord(XX) eq ord(X) - 1 ) and (ord(YY) eq ord(Y) - 2 )) = Yes ;
+};
+};
+
+
+* Total number of cells
+ Set time / t1 * t64 / ;
+
+Binary Variable
+* Cells on the chessboard and time- as set
+         PATH[X,Y,time] ;
+Variable
+         Obj            ;
+Equation
+         Eq_1(X,Y)      ,
+         Eq_2(X,Y,time)  ,
+         Def_obj         ;
+
+Eq_1(X,Y)..
+      Sum{time,PATH[X,Y,time]} =l= 1 ;
+
+Eq_2(X,Y,time)..
+      PATH[X,Y,time--1] =l=
+                Sum{(XX,YY)$Connect(X,Y,XX,YY), PATH[XX,YY,time]} ;
+
+Def_Obj..
+      Obj =e= 1 ;
+
+PATH.fx['x1','y1','t1']  = 1 ;
+
+Model Euler_Knight_Moves / all / ;
+Solve Euler_Knight_Moves using MIP maximazing Obj ;
