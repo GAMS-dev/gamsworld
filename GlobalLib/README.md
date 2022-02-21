@@ -33,7 +33,6 @@ following way:
 
 	  gams ex4_1_1 u1=ex4_1_1.inc
 
-
 **GLOBALLib Model Statistics** 
 
 Total number of models:   397
