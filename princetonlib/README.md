@@ -5,14 +5,14 @@ It also aids in the software quality assurance process by providing a set of too
 
 The original models were in AMPL format and collected by Robert Vanderbei and colleagues at Princeton University. They were translated by Andre Savitsky into GAMS.
 
-The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.
+The indexed GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.
 
 **Reference** 
 
 Nonlinear Optimization Models, collected by Robert Vanderbei and colleagues. (https://vanderbei.princeton.edu/ampl/nlmodels/)
 
 
-Total number of models:   34
+Total number of application areas:   34
 
 |Group Name                                 |Directory Name |Number of models|
 |-------------------------------------------|---------------|---------------:|

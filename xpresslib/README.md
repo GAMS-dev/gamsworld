@@ -3,10 +3,10 @@
 The XPRESS Library is a collection of math programming models (LP and MIP) from XPRESS Model Library (Examples at ttps://www.fico.com/en/products/fico-xpress-optimization).
 The GAMS models were translated by Andre Savistky as is from the original XPRESS source.
 
-The raw GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.
+The indexed GAMS models were converted into GAMS scalar format using the CONVERT facility. For models with multiple solves, only the first solve instance is translated.
 
 
-Total number of models:   28
+Total number of application areas:   28
 
 |Directory Name	        							|Number of Models|
 |---------------------------------------------------|----------------|
