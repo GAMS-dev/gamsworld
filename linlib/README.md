@@ -20,7 +20,7 @@ Total number of models:   699
 
 |Name        		|Type   |#Eqns  |#Vars  |Binary Vars    |Other Discrete Vars|#NZ        |#Q Matrices|Max NZ in Q Matrices|Max Rows in Q Matrices|Best Solution|
 |-------------------|-------|------:|------:|--------------:|------------------:|----------:|----------:|-------------------:|---------------------:|------------:|
-|[10teams     ](http://miplib.zib.de/miplib3/miplib3/10teams.mps.gz)                              )|MIP    |230	|2025	|1800			|0					|14175		|0			|0		 			 |0	    				|924.0000	 |
+|[10teams     ](http://miplib.zib.de/miplib3/miplib3/10teams.mps.gz                              )|MIP    |230	|2025	|1800			|0					|14175		|0			|0		 			 |0	    				|924.0000	 |
 |[25fv47      ](http://www.netlib.org/lp/data/25fv47                                              )|LP	    |821	|1571	|0				|0					|11127		|0			|0		 			 |0	    				|5501.8459	 |
 |[80bau3b     ](http://www.netlib.org/lp/data/80bau3b                                             )|LP	    |2262	|9799	|0				|0					|29063		|0			|0		 			 |0	    				|987224.1924 |	 
 |[aa01        ](http://www.sztaki.hu/~meszaros/public_ftp/lptestse/misc/aa01.gz                 )|LP	    |823	|8904	|0				|0					|81869		|0			|0		 			 |0	    				|55535.4364	 |
