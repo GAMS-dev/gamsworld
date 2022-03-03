@@ -1,4 +1,4 @@
-#  [Production planning] (https://examples.xpress.fico.com/example.pl?id=mosel_app_3)
+#  [Production planning](https://examples.xpress.fico.com/example.pl?id=mosel_app_3)
 
 Total number of models:   6
 

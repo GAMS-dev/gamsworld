@@ -1,4 +1,4 @@
-#  [Loading and cutting stock problems] (https://examples.xpress.fico.com/example.pl?id=mosel_app_4)
+#  [Loading and cutting stock problems](https://examples.xpress.fico.com/example.pl?id=mosel_app_4)
 
 Total number of models:   6
 
