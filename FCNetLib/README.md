@@ -1,6 +1,6 @@
 # Fixed Cost Network Flow Library FCNetLib
 
-The project collects a selection of models formerly featured on http://www.gamsworld.org/. This part containts FCNetLib model statistics, FCNet GAMS models and helper GAMS programs.
+The project collects a selection of models formerly featured on the GAMS World website. This part containts FCNetLib model statistics, FCNet GAMS models and helper GAMS programs.
 
 FCNetLib is a collection of instances for the fixed cost network flow problem. The purpose of the collection is to provide a unified presentation of the data instances together with some GAMS models that implement a straight forward IP formulation and a more sophisticated version that utilizes the GAMS/BCH facility. A class of known cuts (dicuts) is implemented as well as the local branching heuristic within the BCH framework.
 
@@ -18,15 +18,13 @@ F. Ortega and L.A. Wolsey. A branch-and-cut algorithm for the single-commodity, 
 
 [Global Optimization and the GAMS Branch-and-Cut Facility](https://www.gams.com/archives/presentations/present_bch_global.pdf)
 
-[Benchmarking GAMS BCHF](http://gamsworld.org/performance/fcnetlib/kopts/bench-bchf.htm) (detailed description of work done for the CORS talk by Alexey Koptsevich)
-
-**run**
+**Running the Models**
 
 In order to run a particular instance call GAMS in the following way:
 
-gams bchfcnet.gms idir=includes --fname=instance_name
+`gams bchfcnet.gms idir=includes --fname=instance_name`
 
-where instance_name is the base name of the instance in includes (e.g. beavma). In order to activate the BCH cuts and heuristics, add "optfile=1" to the command line.
+where `instance_name` is the base name of the instance in includes (e.g. `beavma`). In order to activate the BCH cuts and heuristics, add `optfile=1` to the command line.
 
 
 **FCNetLib Model Statistics** 
