@@ -1,0 +1,1549 @@
+# References
+
+- 10teams:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- 25fv47:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- 80bau3b:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- aa01:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- aa03:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- aa3:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- aa4:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- aa5:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- aa6:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- acc-tight-0:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- acc-tight-1:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- acc-tight-2:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- acc-tight-3:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- acc-tight-4:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- acc-tight-5:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- acc-tight-6:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- adlittle:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- afiro:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- agg:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- agg2:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- agg3:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- air02:
+  - Barutt, J, and Hull, T, Airline Crew Scheduling: Supercomputers and Algorithms. SIAM News 23, 6 (1990).
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- air03:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Barutt, J, and Hull, T, Airline Crew Scheduling: Supercomputers and Algorithms. SIAM News 23, 6 (1990).
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- air04:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- air05:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- air06:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- aircraft:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- arki001:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- bal8x12:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- bandm:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- bas1lp:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- baxter:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- bc:
+  - NEOS MIP Benchmark, online at ftp://ftp.mcs.anl.gov/neos/mip-bench/.
+- bc1:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- beaconfd:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- bell3a:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Cook, W, Rutherford, T, Scarf, H E, and Sallcoss, D, An Implementation of the Generalized Basis Reduction Algorithme for Integer Programming. Tech. rep., DIMACS, 1980.
+  - Gailly, B, and Wolsey, L A, Capacity Expansion of the Local Access Network.
+  - Bienstock, D, Computational Experience with an Effective Heuristic for Some Capacity Expansion Problems in the Local Access Networks.
+  - Cook, W, Integer Programming Solutions for Capacity Expansion of the Local Access Network. Tech. rep., Bellcore Technical Memorandum, 1991.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- bell5:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- bgdbg1:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- bgetam:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- bgindy:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- bgprtr:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- bienst1:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- bienst2:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- binkar10_1:
+  - NEOS MIP Benchmark, online at ftp://ftp.mcs.anl.gov/neos/mip-bench/.
+- bk4x3:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- blend:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- blend2:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- bnl1:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- bnl2:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- boeing1:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- boeing2:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- bore3d:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- box1:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- brandy:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- cap6000:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- capri:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- car4:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- cari:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- cracker1:
+  - Binous, H, Chemical Engineering Application Models. (Contributed models)
+  - Edgar, T F, Himmelblau, D M, and Lasdon, L S, Optimization of Chemical Processes. McGraw Hill, Boston, 2001.
+- cracker2:
+  - Binous, H, Chemical Engineering Application Models. (Contributed models)
+  - Edgar, T F, Himmelblau, D M, and Lasdon, L S, Optimization of Chemical Processes. McGraw Hill, Boston, 2001.
+- cep1:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- ceria3d:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- ch:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- chemcom:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- cl120a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- cl180a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- cl3a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- cl30a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- cl60a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- cl90a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- client1:
+  - GAMS Development, GAMS Development Client Models.
+- co5:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- co9:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- complex:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- cplex1:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- cplex2:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- cq5:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- cq9:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- cr42:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- cre-a:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- cre-b:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- cre-c:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- cre-d:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- crew1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- cycle:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- czprob:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- d2q06c:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- d6cube:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- dano3_3:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- dano3_4:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- dano3_5:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- dano3mip:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- danoint:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- dbic1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- dbir1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- dbir2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- dcmulti:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - , Proceedings of Supercomputing '94, 1994.
+  - Eckstein, J, Control Strategies for Parallel Mixed Integer Branch and Bound. In Proceedings of Supercomputing '94. IEEE Computer Society Press, Los Alamitos, CA, 1994, pp. 41-48.
+  - Eckstein, J, Parallel Branch-and-Bound Methods for Mixed-Integer Programming on the CM-5. SIAM Journal on Optimization 4, 4 (1994), 794-814.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- de063155:
+  - Problematic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- de063157:
+  - Problematic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- de080285:
+  - Problematic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- degen2:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- degen3:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- delf000:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf001:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf002:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf003:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf004:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf005:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf006:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf007:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf008:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf009:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf010:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf011:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf012:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf013:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf014:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf015:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf017:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf018:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf019:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf020:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf021:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf022:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf023:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf024:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf025:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf026:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf027:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf028:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf029:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf030:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf031:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf032:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf033:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf034:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf035:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- delf036:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- deter0:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- deter1:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- deter2:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- deter3:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- deter4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- deter5:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- deter6:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- deter7:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- deter8:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- df2177:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- dfl001:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- disp3:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- dsbmip:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- e226:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- egout:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Van Roy, T J, and Wolsey, L A, Solving Mixed Integer Programming Problems Using Automatic Reformulation. Oper. Res. 35, 1 (1987), 45-47.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- eild76:
+  - NEOS MIP Benchmark, online at ftp://ftp.mcs.anl.gov/neos/mip-bench/.
+- enigma:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- etamacro:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- ex3sta1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- ex72a:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- ex73a:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- farm:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- fast0507:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- fffff800:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- fiber:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- finnis:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- fit1d:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- fit1p:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- fit2d:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- fit2p:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- fixnet6:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- flugpl:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- fome10:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- fome11:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- fome12:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- fome13:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- fome20:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- fome21:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- forest6:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- forplan:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- fxm2-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- fxm2-6:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- fxm3_16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- fxm3_6:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- fxm4_6:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- galenet:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- gams10a:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- gams10am:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- gams30a:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- gams30am:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- gams60am:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- ganges:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- gas11:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- ge:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- gen:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Van Roy, T J, and Wolsey, L A, Solving Mixed Integer Programming Problems Using Automatic Reformulation. Oper. Res. 35, 1 (1987), 45-47.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- gen1:
+  - Problematic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- gen2:
+  - Problematic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- gen4:
+  - Problematic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- gesa2:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- gesa2_o:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- gesa3:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- gesa3_o:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- gfrd-pnc:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- gosh:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- gr4x6:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- gran:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- greenbea:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- greenbeb:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- greenbei:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- grow15:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- grow22:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- grow7:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- gt2:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- haprp:
+  - NEOS MIP Benchmark, online at ftp://ftp.mcs.anl.gov/neos/mip-bench/.
+- harp2:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- iair04:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- iair05:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- ibc1:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- ibienst1:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- icap6000:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- iiasa:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- imas284:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- imisc07:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- imod011:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- ineos4:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- ineos5:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- iprob:
+  - Problematic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- iqiu:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- iran13x13:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- iran8x32:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- irp:
+  - NEOS MIP Benchmark, online at ftp://ftp.mcs.anl.gov/neos/mip-bench/.
+- israel:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- iswath2:
+  - Mittelmann, H, Miscellaneous MIQCP models by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/miqp/.
+- itest2:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- itest6:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- jendrec1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- kb2:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- ken-07:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- ken-11:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- ken-13:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- ken-18:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- kent:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- khb05250:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Van Roy, T J, and Wolsey, L A, Solving Mixed Integer Programming Problems Using Automatic Reformulation. Oper. Res. 35, 1 (1987), 45-47.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- kl02:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- kleemin3:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- kleemin4:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- kleemin5:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- kleemin6:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- kleemin7:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- kleemin8:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- klein1:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- klein2:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- klein3:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- l152lav:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- l30:
+  - Problematic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- l9:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large000:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large001:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large002:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large003:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large004:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large005:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large006:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large007:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large008:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large009:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large010:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large011:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large012:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large013:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large014:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large015:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large016:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large017:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large018:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large019:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large020:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large021:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large022:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large023:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large024:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large025:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large026:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large027:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large028:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large029:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large030:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large031:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large032:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large033:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large034:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large035:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- large036:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- lotfi:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- lp22:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- lpl1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- lpl2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- lpl3:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- lseu:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Johnson, E L, and Suhl, U H, Experiments in Integer Programming. Discrete Appl. Math. 2 (1980), 39-55.
+  - Lemke, C, and Spielberg, K, Direct Search Zero-One nd Mixed Integer Programming. Oper. Res. 15 (1967), 892-914.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- markshare1:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- markshare2:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- maros-r7:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- maros:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- mas284:
+  - NEOS MIP Benchmark, online at ftp://ftp.mcs.anl.gov/neos/mip-bench/.
+- mas74:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- mas76:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- misc03:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- misc06:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- misc07:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- mitre:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- mkc:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- mkc1:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- mod008:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- mod010:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- mod011:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- mod2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model10:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model11:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model3:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model4:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model5:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model6:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model7:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model8:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- model9:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- modglob:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Van Roy, T J, and Wolsey, L A, Solving Mixed Integer Programming Problems Using Automatic Reformulation. Oper. Res. 35, 1 (1987), 45-47.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- modszk1:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- mondou2:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- multi:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- n3700:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n3701:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n3702:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n3703:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n3704:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n3705:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n3706:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n3707:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n3708:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n3709:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n370a:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n370b:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n370c:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n370d:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- n370e:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- nemsafm:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nemscem:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nemsemm1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nemsemm2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nemspmm1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nemspmm2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nemswrld:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- neos1:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- neos2:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- neos3:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- neos4:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- neos5:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- neos6:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- neos7:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- nesm:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- nl:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- noswot:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- nql201:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- nql30:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- nsct1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nsct2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nsic1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nsic2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nsir1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nsir2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nug05:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nug06:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nug07:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nug08:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- nug12:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nug15:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- nug20:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- nug30:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- nw04:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- nw14:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- orna1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- orna2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- orna3:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- orna4:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- orna7:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- orswq2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- osa-07:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- osa-14:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- osa-30:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- osa-60:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- p0033:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Hoffman, K L, and Padberg, M, Improving LP-Representations of Zero-One Linear Programs for Branch-and-Cut. ORSA Journal on Computing 3, 2 (1991).
+  - Crowder, H, Johnson, E L, and Padberg, M, Solving Large-Scale Zero-One Linear Programming Problems. Operations Research 31, 5 (1983).
+  - Andrew Boyd, E, Fenchel Cutting Planes for Integer Programs. to appear in Operations Research
+  - Andrew Boyd, E, Generating Fenchel Cutting Planes for Knapsack Polyhedra. to appear in the SIAM Journal on Optimization
+  - Andrew Boyd, E, Solving Integer Programs with Enumeration Cutting Planes.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- p0040:
+  - Hoffman, K L, and Padberg, M, Improving LP-Representations of Zero-One Linear Programs for Branch-and-Cut. ORSA Journal on Computing 3, 2 (1991).
+  - Crowder, H, Johnson, E L, and Padberg, M, Solving Large-Scale Zero-One Linear Programming Problems. Operations Research 31, 5 (1983).
+  - Andrew Boyd, E, Fenchel Cutting Planes for Integer Programs. to appear in Operations Research
+  - Andrew Boyd, E, Generating Fenchel Cutting Planes for Knapsack Polyhedra. to appear in the SIAM Journal on Optimization
+  - Andrew Boyd, E, Solving Integer Programs with Enumeration Cutting Planes.
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- p010:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- p0201:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Hoffman, K L, and Padberg, M, Improving LP-Representations of Zero-One Linear Programs for Branch-and-Cut. ORSA Journal on Computing 3, 2 (1991).
+  - Crowder, H, Johnson, E L, and Padberg, M, Solving Large-Scale Zero-One Linear Programming Problems. Operations Research 31, 5 (1983).
+  - Andrew Boyd, E, Fenchel Cutting Planes for Integer Programs. to appear in Operations Research
+  - Andrew Boyd, E, Generating Fenchel Cutting Planes for Knapsack Polyhedra. to appear in the SIAM Journal on Optimization
+  - Andrew Boyd, E, Solving Integer Programs with Enumeration Cutting Planes.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- p0282:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Hoffman, K L, and Padberg, M, Improving LP-Representations of Zero-One Linear Programs for Branch-and-Cut. ORSA Journal on Computing 3, 2 (1991).
+  - Crowder, H, Johnson, E L, and Padberg, M, Solving Large-Scale Zero-One Linear Programming Problems. Operations Research 31, 5 (1983).
+  - Andrew Boyd, E, Fenchel Cutting Planes for Integer Programs. to appear in Operations Research
+  - Andrew Boyd, E, Generating Fenchel Cutting Planes for Knapsack Polyhedra. to appear in the SIAM Journal on Optimization
+  - Andrew Boyd, E, Solving Integer Programs with Enumeration Cutting Planes.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- p0291:
+  - Hoffman, K L, and Padberg, M, Improving LP-Representations of Zero-One Linear Programs for Branch-and-Cut. ORSA Journal on Computing 3, 2 (1991).
+  - Crowder, H, Johnson, E L, and Padberg, M, Solving Large-Scale Zero-One Linear Programming Problems. Operations Research 31, 5 (1983).
+  - Andrew Boyd, E, Fenchel Cutting Planes for Integer Programs. to appear in Operations Research
+  - Andrew Boyd, E, Generating Fenchel Cutting Planes for Knapsack Polyhedra. to appear in the SIAM Journal on Optimization
+  - Andrew Boyd, E, Solving Integer Programs with Enumeration Cutting Planes.
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- p05:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- p0548:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - Hoffman, K L, and Padberg, M, Improving LP-Representations of Zero-One Linear Programs for Branch-and-Cut. ORSA Journal on Computing 3, 2 (1991).
+  - Crowder, H, Johnson, E L, and Padberg, M, Solving Large-Scale Zero-One Linear Programming Problems. Operations Research 31, 5 (1983).
+  - Andrew Boyd, E, Fenchel Cutting Planes for Integer Programs. to appear in Operations Research
+  - Andrew Boyd, E, Generating Fenchel Cutting Planes for Knapsack Polyhedra. to appear in the SIAM Journal on Optimization
+  - Andrew Boyd, E, Solving Integer Programs with Enumeration Cutting Planes.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- p19:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- p2756:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- p6000:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pang:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- pcb1000:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pcb3000:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pds-02:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- pds-06:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- pds-10:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- pds-100:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- pds-2:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- pds-20:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- pds-30:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- pds-40:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- pds-50:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- pds-60:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- pds-70:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- pds-80:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- pds-90:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- perold:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- pf2177:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pgp2:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pilot-ja:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- pilot-we:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- pilot:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- pilot4:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- pilot4i:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- pilot87:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- pilotnov:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- pk1:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- pldd000b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd001b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd002b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd003b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd004b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd005b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd006b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd007b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd008b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd009b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd010b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd011b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pldd012b:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pltexpa2-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pltexpa2-6:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pltexpa3_16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pltexpa3_6:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- pltexpa4_6:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- power:
+  - Binous, H, Chemical Engineering Application Models. (Contributed models)
+  - Edgar, T F, Himmelblau, D M, and Lasdon, L S, Optimization of Chemical Processes. McGraw Hill, Boston, 2001.
+- pp08a:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- pp08acuts:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- primagaz:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- problem:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- prod1:
+  - NEOS MIP Benchmark, online at ftp://ftp.mcs.anl.gov/neos/mip-bench/.
+- progas:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- q18a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- q30a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- q9a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qap08:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- qap10:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- qap12:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- qap15:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- qiu:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - , Proceedings of Supercomputing '94, 1994.
+  - Eckstein, J, Control Strategies for Parallel Mixed Integer Branch and Bound. In Proceedings of Supercomputing '94. IEEE Computer Society Press, Los Alamitos, CA, 1994, pp. 41-48.
+  - Eckstein, J, Parallel Branch-and-Bound Methods for Mixed-Integer Programming on the CM-5. SIAM Journal on Optimization 4, 4 (1994), 794-814.
+  - Eckstein, J, Parallel Branch-and-Bound Methods for Mixed Integer Programming. SIAM News 27, 1 (1994), 1-1215.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- qiulp:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- qnet1:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- qnet1_o:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- qssp120l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qssp180l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qssp18l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qssp30l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qssp60l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qssp90l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qt120a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qt12a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qt180a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qt18a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qt30a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qt60a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qt90a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qt9a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- q60a13l1:
+  - MOSEK ApS, MOSEK Consulting Client Models.
+- qual:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- r05:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rail2586:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- rail4284:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- rail507:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- rail516:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- rail582:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- ran10x10a:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran10x10b:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran10x10c:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran10x12:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran10x26:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran12x12:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran12x21:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran13x13:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran14x18:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran16x16:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran17x17:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran4x64:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran6x43:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- ran8x32:
+  - Gottlieb, J, and Paulmann, L, Genetic Algorithms for the Fixed Charge Transportation Problem. Proceedings of the 5th IEEE International Conference on Evolutionary Computation, Anchorage, Alaska (1998), 330-335.
+  - Sun, M, Aronson, J E, McKeown, P G, and Drinka, D, A tabu search heuristic procedure for the fixed charge transportation problem. European Journal of Operational Research 106 (1998), 441-456.
+- rat1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rat5:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rat7a:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- reactor:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- recipe:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- refine:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- refinery:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- rentacar:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- rgn:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- rlfddd:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rlfdual:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rlfprim:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rlp2:
+  - NEOS MIP Benchmark, online at ftp://ftp.mcs.anl.gov/neos/mip-bench/.
+- rosen1:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rosen10:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rosen2:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rosen7:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rosen8:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- rout:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- route:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc105:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- sc205-2r-100:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-1600:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-200:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-27:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-32:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-400:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-50:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-8:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205-2r-800:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sc205:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- sc50a:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- sc50b:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scagr25:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scagr7-2b-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2b-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2b-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2c-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2c-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2c-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-108:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-216:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-27:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-32:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-432:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-54:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-8:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7-2r-864:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scagr7:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scfxm1-2b-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2b-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2b-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2c-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2r-128:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2r-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2r-256:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2r-27:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2r-32:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2r-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2r-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2r-8:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1-2r-96:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scfxm1:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scfxm2:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scfxm3:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scorpion:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scrs8-2b-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2b-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2b-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2c-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2c-32:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2c-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2c-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2c-8:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-128:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-256:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-27:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-32:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-512:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-64b:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8-2r-8:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scrs8:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scsd1:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scsd6:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- scsd8-2b-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2b-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2b-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2c-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2c-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2c-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-108:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-216:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-27:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-32:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-432:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-54:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-8:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8-2r-8b:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- scsd8:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- sctap1-2b-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2b-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2b-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2c-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2c-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2c-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-108:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-16:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-216:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-27:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-32:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-4:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-480:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-54:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-64:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-8:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1-2r-8b:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sctap1:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- sctap2:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- sctap3:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- seba:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- self:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- set1ch:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- seymour:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- seymour1:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- seymourl:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- sgpf5y6:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- share1b:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- share2b:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- shell:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- ship04l:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- ship04s:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- ship08l:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- ship08s:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- ship12l:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- ship12s:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- sierra:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- slptsk:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small000:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small001:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small002:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small003:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small004:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small005:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small006:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small007:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small008:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small009:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small010:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small011:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small012:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small013:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small014:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small015:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- small016:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- south31:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- stair:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- standata:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- standgub:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- standmps:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- stein27:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- stein45:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- stocfor1:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- stocfor2:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- stocfor3:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- stormg2-125:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- stormg2-27:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- stormg2-8:
+  - Stochastic LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- stormg2_1000:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- swath:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- swath1:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- swath2:
+  - Mittelmann H. - MIP Models, Miscellaneous MIP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/milp/.
+- sws:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- t0331-4l:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- testbig:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- truss:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- tuff:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- ulevimin:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- us04:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- vol1:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- vpm1:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- vpm2:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+  - MIPLIB 3.0 Library, online at http://www.caam.rice.edu/~bixby/miplib/miplib.html.
+- vtp-base:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- watson_1:
+  - Mittelmann H. - LP Models, Miscellaneous LP models collected by Hans D. Mittelmann: online at ftp://plato.la.asu.edu/pub/lptestset/.
+- wood1p:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- woodinfe:
+  - NETLIB Infeasible LP Library, online at http://www.netlib.org/lp/infeas.
+- woodw:
+  - NETLIB LP Repository, online at http://www.netlib.org/lp/data.
+- world:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.
+- zed:
+  - Miscellaneous LP Models, Hungarian Academy of Sciences OR Lab: online at ftp.sztaki.hu/oplab.

@@ -2,19 +2,15 @@
 
 This is a large collection of linear and quadratic models. Some of the the instances also contain discrete variables.
 
-**LINLib Organization**
+## LINLib Organization
 
 In order to run a particular instance call GAMS in the following way:
 
-gams gensolve.gms --iname=instances/<instance_name>
+`gams gensolve.gms --iname=instances/<instance_name>`
 
-where instance_name is the name of the GDX file in instances  (e.g. 10teams.gdx).
+where instance_name is the name of the GDX file in instances  (e.g. `10teams.gdx`).
 
-**Reference**
-
-Fourer, R., Gay, D.M., and Kernighan, B.W. The AMPL Book. AMPL: A Modeling Language for Mathematical Programming, Duxbury Press, Brooks/Cole Publishing Company, 2002. 
-
-**LINLib Model Statistics** 
+## LINLib Model Statistics
 
 Total number of models:   699
 
