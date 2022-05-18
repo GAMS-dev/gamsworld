@@ -1,0 +1,234 @@
+# References
+
+- aampec_1:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- aampec_2:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- aampec_3:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- aampec_4:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- aampec_5:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- aampec_6:
+  - Nemhauser, G L, and Trick, M A, Scheduling a Major College Basketball Conference. Operations Research 46 (1998), 1-8.
+- bard1:
+  - Bard, J F, Convex Two-Level Optimization. Mathematical Programming 40 (1988), 15-27.
+- bard2:
+  - Bard, J F, Convex Two-Level Optimization. Mathematical Programming 40 (1988), 15-27.
+- bard3:
+  - Bard, J F, Convex Two-Level Optimization. Mathematical Programming 40 (1988), 15-27.
+- bartruss3_0:
+  - Ferris, M C, and Tin-Loi, F, On the Solution of a Minimum Weight Elastoplastic Problem Involving Displacement and Complementarity Constraints. Comp. Meth. in Appl. Mech. and Engng 174 (1999), 107-120.
+- bartruss3_1:
+  - Ferris, M C, and Tin-Loi, F, On the Solution of a Minimum Weight Elastoplastic Problem Involving Displacement and Complementarity Constraints. Comp. Meth. in Appl. Mech. and Engng 174 (1999), 107-120.
+- bartruss3_2:
+  - Ferris, M C, and Tin-Loi, F, On the Solution of a Minimum Weight Elastoplastic Problem Involving Displacement and Complementarity Constraints. Comp. Meth. in Appl. Mech. and Engng 174 (1999), 107-120.
+- bartruss3_3:
+  - Ferris, M C, and Tin-Loi, F, On the Solution of a Minimum Weight Elastoplastic Problem Involving Displacement and Complementarity Constraints. Comp. Meth. in Appl. Mech. and Engng 174 (1999), 107-120.
+- bartruss3_4:
+  - Ferris, M C, and Tin-Loi, F, On the Solution of a Minimum Weight Elastoplastic Problem Involving Displacement and Complementarity Constraints. Comp. Meth. in Appl. Mech. and Engng 174 (1999), 107-120.
+- bartruss3_5:
+  - Ferris, M C, and Tin-Loi, F, On the Solution of a Minimum Weight Elastoplastic Problem Involving Displacement and Complementarity Constraints. Comp. Meth. in Appl. Mech. and Engng 174 (1999), 107-120.
+- dempe:
+  - Luo, Z, Pang, J S, and Ralph, D, Mathematical Programs with Equilibrium Constraints. CUP, 1997.
+- dempe2:
+  - Luo, Z, Pang, J S, and Ralph, D, Mathematical Programs with Equilibrium Constraints. CUP, 1997.
+- desilva:
+  - DeSilva, A H, Sensitivity Formulas for Nonlinear Factorable Programming and their Application to the Solution of an Implicitly Defined Optimization Model of US Crude Oil Production. PhD thesis, George Washington University, 1978.
+- ex9_1_1m:
+  - Floudas, C A, Pardalos, P M, Adjiman, C S, Esposito, W R, Gumus, Z H, Harding, S T, Klepeis, J L, Meyer, C A, and Schweiger, C A, Handbook of Test Problems in Local and Global Optimization. Kluwer Academic Publishers, 1999.
+  - Clark, P A, and Westerberg, A W, Bilevel Programming for Steady-State Chemical Process Design-i. Fundamentals and Algorithms. Comput. Chem. Eng. 14 (1990), 87.
+- ex9_1_2m:
+  - Floudas, C A, Pardalos, P M, Adjiman, C S, Esposito, W R, Gumus, Z H, Harding, S T, Klepeis, J L, Meyer, C A, and Schweiger, C A, Handbook of Test Problems in Local and Global Optimization. Kluwer Academic Publishers, 1999.
+  - Liu, Y H, and Hart, S M, Characterizing an Optimal Solution to the Linear Bilevel Programming Problem. European Journal of Operational Research 79 (1994), 164-166.
+- ex9_1_3m:
+  - Floudas, C A, Pardalos, P M, Adjiman, C S, Esposito, W R, Gumus, Z H, Harding, S T, Klepeis, J L, Meyer, C A, and Schweiger, C A, Handbook of Test Problems in Local and Global Optimization. Kluwer Academic Publishers, 1999.
+  - Candler, W, and Townsley, R, A Linear Two-Level Programming Problem. Comp. Op. Res. 9 (1982), 59-76.
+- ex9_1_4m:
+  - Floudas, C A, Pardalos, P M, Adjiman, C S, Esposito, W R, Gumus, Z H, Harding, S T, Klepeis, J L, Meyer, C A, and Schweiger, C A, Handbook of Test Problems in Local and Global Optimization. Kluwer Academic Publishers, 1999.
+  - Clark, P A, and Westerberg, A W, A Note on the Optimality Conditions for the Bilevel Programming Problem. Naval Research Logistics 35 (1988), 413-418.
+- finda10t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda10s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda10l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda15t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda15s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda15l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda30t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda30s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda30l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda35t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda35s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- finda35l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb10t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb10s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb10l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb15t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb15s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb15l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb30t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb30s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb30l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb35t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb35s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findb35l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc10t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc10s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc10l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc15t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc15s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc15l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc30t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc30s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc30l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc35t:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc35s:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- findc35l:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+- frictionalblock_1:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- frictionalblock_2:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- frictionalblock_3:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- frictionalblock_4:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- frictionalblock_5:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- frictionalblock_6:
+  - Carolan, W J, Hill, J E, Kennington J L, Niemi, S, and Wichmann, S J, An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications. Operations Research 38, 2 (1990), 240-248.
+- fjq1:
+  - Facchinei, F, Jiang, H, and Qi, L, A Smoothing Method for Mathematical Programs with Equilibrium Constraints. Tech. rep., Universita di Roma La Sapienza, 1996.
+- gauvin:
+  - Savard, G, and Gauvin, J, The Steepest Descent for the Nonlinear Bilevel Programming Problem. Operation Research Letters 15 (1994), 265-272.
+- hq1:
+  - Henderson, J M, and Quandt, R E, Microeconomic Theory. McGraw Hill, New York, 1980. 3rd edition
+- kehoe1:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- kehoe2:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- kehoe3:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- kojshin3:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- kojshin4:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- nappi_a:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+- nappi_b:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+- nappi_c:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+- nappi_d:
+  - Bixby, R, Ceria, S, McZeal C M, and Savelsbergh, M W P, An Updated Mixed Integer Programming Library: MIPLIB 3.0. Optima 58 (1998), 12-15.
+- mss:
+  - Murphy, F H, Sherali, H D, and Soyster, A L, A Mathematical Programming Approach for Determining Oligopolistic Market Equilibrium. Mathematical Programming 24 (1982), 92-106.
+- outrata31:
+  - Outrata, J V, On Optimization Problems with Variational Inequality Constraints. SIAM J. Optim. 4 (1994), 340-357.
+  - Scholtes, S, and Stohr, M, Exact Penalization of Mathematical Programs with Equilibrium Constraints. SIAM J. Control Optim. 37, 2 (1999), 617-652.
+- outrata32:
+  - Outrata, J V, On Optimization Problems with Variational Inequality Constraints. SIAM J. Optim. 4 (1994), 340-357.
+  - Scholtes, S, and Stohr, M, Exact Penalization of Mathematical Programs with Equilibrium Constraints. SIAM J. Control Optim. 37, 2 (1999), 617-652.
+- outrata33:
+  - Outrata, J V, On Optimization Problems with Variational Inequality Constraints. SIAM J. Optim. 4 (1994), 340-357.
+  - Scholtes, S, and Stohr, M, Exact Penalization of Mathematical Programs with Equilibrium Constraints. SIAM J. Control Optim. 37, 2 (1999), 617-652.
+- outrata34:
+  - Outrata, J V, On Optimization Problems with Variational Inequality Constraints. SIAM J. Optim. 4 (1994), 340-357.
+  - Scholtes, S, and Stohr, M, Exact Penalization of Mathematical Programs with Equilibrium Constraints. SIAM J. Control Optim. 37, 2 (1999), 617-652.
+- oz3:
+  - Outrata, J V, and Zowe, J, A Numerical Approach to Optimization Problems with Variational Inequality Constraints. Mathematical Programming 68 (1995), 105-130.
+- qvi:
+  - Outrata, J V, and Zowe, J, A Numerical Approach to Optimization Problems with Variational Inequality Constraints. Mathematical Programming 68 (1995), 105-130.
+- three:
+  - Dirkse, S P, and Ferris, M C, Modeling and Solution Environments for MPEC: GAMS and MATLAB. In Fukushima, M, and Qi, L, Eds, Reformulation: Nonsmooth, Piecewise Smooth, Semismooth and Smoothing Methods. Kluwer Academic Publishers, 1999, pp. 127-148.
+- tinloi:
+  - Maier, G, Giannessi, F, and Nappi, A, Indirect Identification of Yield Limits by Mathematical Programming. Engineering Structures 4 (1982), 86-98.
+  - Jiang, H, Ralph, D, and Tin-Loi, F, Identification of Yield Limits .... In Grzebieta, R H, Al-Mahaidi, R, and Wilson, J L, Eds, Proceedings of 15th ACMSM. Balkema, Rotterdam, Melbourne, Australia, 1997, pp. 399-404.
+  - Ferris, M C, and Tin-Loi, F, Nonlinear Programming Approach for a Class of Inverse Problems in Elastoplasticity. Structural Engineering and Mechanics 6 (1998), 857-870.
+  - Pang, J S, and Tin-Loi, F, A penalty interior point algorithm for a inverse parameter identification problem in elastoplasticity. Mechanics of Structures and Machines 29 (2001), 85-99.
+- tinque_dhs2:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- tinque_dns2:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- tinque_mis2:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- tinque_pss2:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- tinque_sws2:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- tinque_sws3:
+  - Kehoe, T, A Numerical Investigation of the Multiplicity of Equilibria. Mathematical Programming Study 23 (1985), 240-258.
+- tollmpec:
+  - Dirkse, S P, and Ferris, M C, MCPLIB: A Collection of Nonlinear Mixed Complementarity Problems. Optimization Methods and Software 5 (1995), 319-345.
+  - Dirkse, S P, and Ferris, M C, Traffic Modeling and Variational Inequalities Using GAMS. In Toint, P L, Ed, Operations Research and Decision Aid Methodologies in Traffic and Transportation Management. Springer Verlag, 1997.

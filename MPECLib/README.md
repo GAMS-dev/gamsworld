@@ -2,9 +2,7 @@
 
 MPECLib is a collection of Mathematical Programs with Equilibrium Constraints. The purpose of the collection is to provide algorithm developers with a large and varied set of both theoretical and practical test models.
 
-# MPECLib Organization
-
-**The models**
+## Model Format
 
 The original algebraic models have been translated into a scalar
 format in which documentation and comments have been removed, sets and
@@ -16,15 +14,11 @@ structure of the model as seen by the solver is completely unchanged
 by the translation into scalar form.  This property is crucial in
 algorithm testing.
 
-**Scalar Models**
+Furthermore, each scalar GAMS file contains only one solve statement.
+This allows these GAMS file to represent problem instances rather than
+more general models.  Again, useful for algorithm testing.
 
-The collection has initially been created by combining small-scale models from the literature with large industrial models. We invite everybody to make contributions to the collection.
-
-To allow the inclusion of industrial models whose data or formulation are proprietary, the models have been translated into a scalar format in which documentation and comments have been removed, sets and set operators have been unrolled, and the original data and structure of the model have disappeared. 
-Most industrial users will accept that translated confidential models can be made publicly available. The scalar models are not intended to serve as guidelines for good modeling practice.
-
-
-**MPECLib Model Statistics**
+## MPECLib Model Statistics
 
 Total number of models:  92
 
