@@ -1,0 +1,43 @@
+$offlisting
+* Data file for Lausanne WST (LMC/EPFL)
+* Dimension       = 200L x 200 (170 IL) H x 97W mm
+* Notch Length    = 85 mm
+* Young's Modulus = 25200 MPa
+* Poisson's Ratio = 0.2
+
+parameter q(s)
+/
+ s1   0.0250,   s2   0.0550,   s3   0.0650,   s4   0.0780
+ s5   0.1000,   s6   0.1150,   s7   0.1280,   s8   0.1400
+ s9   0.1530,  s10   0.1630,  s11   0.1830,  s12   0.1930
+s13   0.2030,  s14   0.2130,  s15   0.2230,  s16   0.2580
+s17   0.2730,  s18   0.2880,  s19   0.3030,  s20   0.3230
+s21   0.3480,  s22   0.3980,  s23   0.4230,  s24   0.4530
+s25   0.4830,  s26   0.5100,  s27   0.5450,  s28   0.5850
+s29   0.6580,  s30   0.8350,  s31   0.9150,  s32   1.0080
+/;
+
+* divide q(s) by 2 to consider half of WST only
+* in this case qscale describes if full or half specimen used
+qscale = 2;
+q(s) = q(s)/qscale;
+
+* Qm is pseudo reaction for unit thickness
+parameter Qm(s)
+/
+s1  10.0558940,    s2  19.8997354,    s3  22.3076536,    s4  24.4988301
+s5  25.1338653,    s6  23.3192924,    s7  21.4873911,    s8  19.7734210
+s9  17.9739346,    s10 16.5092560,    s11 13.7064890,    s12 12.2346275
+s13 10.9135261,    s14  9.7239042,    s15  8.7055340,    s16  6.2458348
+s17  5.4731032,    s18  4.8473923,    s19  4.3523286,    s20  3.8288097
+s21  3.2045011,    s22  2.3327738,    s23  2.0098231,    s24  1.7311856
+s25  1.5005472,    s26  1.3680344,    s27  1.2270557,    s28  1.1062263
+s29  0.9586878,    s30  0.5730726,    s31  0.4619022,    s32  0.3598161
+/;
+
+* Qc is for unit thickness specimen
+* Hence use Qc for unit thickness
+* Qm is already for unit thickness
+
+thick = 97;
+$onlisting
