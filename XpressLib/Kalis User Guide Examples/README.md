@@ -3,7 +3,7 @@
 Total number of models:   43
 
 | Name                                                                                   | Type | #Eqns | #Vars | #NZ   | #NNZ  |
-|----------------------------------------------------------------------------------------|------|-------|-------|-------|-------|
+|----------------------------------------------------------------------------------------|------|------:|------:|------:|------:|
 |[a4sugar2_ka](https://examples.xpress.fico.com/example.pl?id=a4sugarka)                 | MIP  | 27    | 56    | 155   | 0     |
 |[a4sugar_ka](https://examples.xpress.fico.com/example.pl?id=a4sugarka)                  | MIP  | 27    | 56    | 155   | 0     |
 |[b1stadium2_ka](https://examples.xpress.fico.com/example.pl?id=b1stadiumka)             | MIP  | 65    | 39    | 130   | 0     |
