@@ -1,4 +1,4 @@
-# LINLib Model Statistics
+# LINLib Model Library
 
 This is a large collection of linear and quadratic models. Some of the the instances also contain discrete variables.
 
