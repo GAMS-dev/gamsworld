@@ -10,7 +10,7 @@ The original MIPLIB 2010 with more statistical information, classifications, ref
 
 In order to run a particular instance call GAMS in the following way:
 
-gams gensolve.gms --iname=instances/<instance_name>
+`gams gensolve.gms --iname=instances/<instance_name>`
 
 where instance_name is the name of the GDX file in instances (e.g. 30_70_45_095_100.gdx).
 
