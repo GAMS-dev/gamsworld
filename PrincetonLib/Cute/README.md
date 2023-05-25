@@ -5,7 +5,7 @@ These models were created by Hande Yurttan anda translated to GAMS by Andre Savi
 Total number of models:   738
 
 | Name               | Type | #Eqns | #Vars | #NZ     | #NNZ   | Bestknown Objective  |
-|--------------------|------|-------|-------|---------|--------|----------------------|
+|--------------------|------|------:|------:|--------:|-------:|----------------------|
 | catenary           | NLP  | 167   | 501   | 998     | 830    | -182453.74698053     |
 | minsurf            | NLP  | 113   | 177   | 421     | 308    | 1.00000000           |
 | power              | NLP  | 1     | 1001  | 1001    | 1000   | 0.00000000           |
@@ -710,7 +710,7 @@ Total number of models:   738
 | steenbrf           | NLP  | 109   | 469   | 973     | 108    | 282.67955682         |
 | steenbrg           | NLP  | 127   | 541   | 1549    | 540    | 0.29019492           |
 | supersim           | NLP  | 3     | 3     | 6       | 0      | 0.66666667           |
-| svanberg           | NLP  | 3     | 3     | 6       | 0      | 0.66666667           |
+| svanberg           | NLP  | 5001  | 5001  | 47505   | 47504  | 8361.42              |
 | swopf              | NLP  | 93    | 84    | 379     | 154    | 0.06786018           |
 | synthes1           | NLP  | 7     | 7     | 23      | 6      | 0.75928439           |
 | tame               | NLP  | 1     | 3     | 3       | 2      | 0.00000000           |
