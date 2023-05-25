@@ -27,6 +27,8 @@ Table A_output[I,J]
     i3   22  24  26  ;
 
 
+$save dat
+$onEmbeddedCode GAMS: restart=dat
 file result / %input% /
 put result;
 
@@ -37,7 +39,7 @@ Loop{I, Put I.TL:6 ;
 Loop{J,  Put "  " ; Put A_output[I,J]:8:2 ;  } ; Put /;
     };
 put ";";
-
+$offEmbeddedCode
 
 Table B_input[I,J]
 $INCLUDE '%output%';
