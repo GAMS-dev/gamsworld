@@ -3,7 +3,7 @@
 Total number of models:   6
 
 | Name  | Type | #Eqns | #Vars | #NZ | #NNZ |
-|-------|------|-------|-------|-----|------|
+|-------|------|------:|------:|----:|-----:|
 | [blend](https://examples.xpress.fico.com/example.pl?id=blenddata) | LP   | 3     | 3     | 7   | 0    |
 | [coco ](https://examples.xpress.fico.com/example.pl?id=xbcococpp) | MIP  | 63    | 99    | 303 | 0    |
 | [coco1](https://examples.xpress.fico.com/example.pl?id=xbcococpp) | MIP  | 5     | 5     | 13  | 0    |
