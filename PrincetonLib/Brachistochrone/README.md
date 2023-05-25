@@ -16,8 +16,8 @@ https://vanderbei.princeton.edu/ampl/nlmodels/brachistochrone/index.html
 
 Total number of models:   3
 
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|bc4		  	  |NLP	 |513	 |1026	|2561   |1024   |2.59262221	 |
-|bc5 			  |NLP   |1537	 |2563	|5121   |1024   |31.11446136 |
-|bc7			  |NLP   |129	 |194	|385	|64	    |2.58043940	 |
+|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |
+|-----------------|-----:|------:|-----:|------:|------:|
+|bc4		  	  |NLP	 |513	 |1026	|2561   |1024   |
+|bc5 			  |NLP   |1537	 |2563	|5121   |1024   |
+|bc7			  |NLP   |129	 |194	|385	|64	    |
