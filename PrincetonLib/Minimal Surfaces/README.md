@@ -8,9 +8,9 @@ The specific problem coded in the models below takes D to be a square and the bo
 
 Total number of models:   4
 
-| Name              | Type | #Eqns | #Vars | #NZ   | #NNZ | Bestknown Objective |
-|-------------------|------|-------|-------|-------|------|---------------------|
-| minsurf           | NLP  | 1     | 1090  | 1090  | 1089 | 7.61984638          |
-| minsurf_exp       | NLP  | 2049  | 3138  | 10241 | 8192 | 13.45527365         |
-| minsurf_nonconvex | NLP  | 2049  | 3138  | 10241 | 8192 | 13.59792547         |
-| minsurf_socp      | NLP  | 2049  | 3138  | 10241 | 6144 | 10.65215101         |
+| Name              | Type | #Eqns | #Vars | #NZ   | #NNZ |
+|-------------------|------|------:|------:|------:|-----:|
+| minsurf           | NLP  | 1     | 1090  | 1090  | 1089 |
+| minsurf_exp       | NLP  | 2049  | 3138  | 10241 | 8192 |
+| minsurf_nonconvex | NLP  | 2049  | 3138  | 10241 | 8192 |
+| minsurf_socp      | NLP  | 2049  | 3138  | 10241 | 6144 |
