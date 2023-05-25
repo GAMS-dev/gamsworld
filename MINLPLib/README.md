@@ -1,4 +1,4 @@
-# MINLP Library
+# MINLPLib Model Library
 
 MINLPLib is a collection of Mixed Integer Nonlinear Programming models. 
 The purpose of the collection is to provide algorithm developers with a large and varied set of both theoretical and practical test models.
