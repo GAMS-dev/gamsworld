@@ -2683,7 +2683,7 @@ x905.lo = -150.0 ; x905.up = 150.0             ;x905.l = 1.0;
 x906.lo = -150.0 ; x906.up = 150.0             ;x906.l = -135.565;
 
 
-$include 'data';
+*$include 'data';
 
 
 Model dallas1 /all/;
