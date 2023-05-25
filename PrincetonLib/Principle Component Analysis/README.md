@@ -8,8 +8,8 @@ https://vanderbei.princeton.edu/ampl/nlmodels/pca/index.html
 
 Total number of models:   3
 
-| Name   | Type | #Eqns | #Vars | #NZ  | #NNZ | Bestknown Objective  |
-|--------|------|-------|-------|------|------|----------------------|
-| pca    | NLP  | 5     | 10    | 28   | 27   | -3.1622776601684E+11 |
-| pca2   | NLP  | 50    | 99    | 1282 | 1281 | 329.41767148         |
-| robust | NLP  | 10    | 25    | 130  | 129  | 2.22584193           |
+| Name   | Type | #Eqns | #Vars | #NZ  | #NNZ |
+|--------|------|------:|------:|-----:|-----:|
+| pca    | NLP  | 5     | 10    | 28   | 27   |
+| pca2   | NLP  | 50    | 99    | 1282 | 1281 |
+| robust | NLP  | 10    | 25    | 130  | 129  |
