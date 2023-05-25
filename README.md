@@ -1,7 +1,6 @@
-This collection of models gams from the _GAMS World Initiative_ and in particular the _Performance World Libraries_. 
+This collection of models originates with the _GAMS World Initiative_ and in particular the _Performance World Libraries_. 
 The purpose of these collections is to provide users with an established and varied set of both theoretical and practical test models.
-Models from various sources (AMPL, MOSEL, MPL, ...) have been made available in as GAMS models and generated as scalar models. This 
-project contains the following model collections:
+Models from various sources (AMPL, MOSEL, MPL, ...) have been made available in as GAMS models and generated as scalar models. The GAMS World web site has been closed down but this useful collection of models found a new home here. The project contains the following model collections:
 
 # AMPLBookLib
 
