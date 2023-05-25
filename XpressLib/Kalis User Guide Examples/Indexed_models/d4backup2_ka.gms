@@ -87,7 +87,7 @@ Solve D_4_Bin_packing using MIP minimazing diskuse ;
 Display diskuse.l ;
 Display ND ;
 
-
+$exit
 * Lets Check
 
 Parameter Fill[DISKS] ;
