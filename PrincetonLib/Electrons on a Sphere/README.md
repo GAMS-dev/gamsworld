@@ -6,8 +6,8 @@ https://vanderbei.princeton.edu/ampl/nlmodels/fekete/index.html
 
 Total number of models:   3
 
-| Name         | Type | #Eqns | #Vars | #NZ  | #NNZ | Bestknown Objective |
-|--------------|------|-------|-------|------|------|---------------------|
-| fekete       | NLP  | 51    | 151   | 301  | 300  | -583.05720132	      |
-| fekete2      | NLP  | 51    | 151   | 301  | 300  | 1055.18231473	      |
-| fekete3      | NLP  | 1     | 31    | 31   | 30   | -64.29642749        |
+| Name         | Type | #Eqns | #Vars | #NZ  | #NNZ |
+|--------------|------|------:|------:|-----:|-----:|
+| fekete       | NLP  | 51    | 151   | 301  | 300  |
+| fekete2      | NLP  | 51    | 151   | 301  | 300  |
+| fekete3      | NLP  | 1     | 31    | 31   | 30   |
