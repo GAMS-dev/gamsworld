@@ -2,9 +2,9 @@
 
 The project collects the models formerly featured on the GAMS World website. The project contains the scalar and indexed GAMS models.
 
-The AMPL Book Library is a collection of math programming models from The AMPL Book. AMPL: [A Modeling Language for Mathematical Programming](http://www.ampl.com/BOOK/index.html) 
+The AMPL Book Library is a collection of math programming models from The AMPL Book. AMPL: [A Modeling Language for Mathematical Programming](https://dev.ampl.com/ampl/book.html) 
 by Robert Fourer, David Gay, and Brian Kernighan. The GAMS models were translated by Andre Savistky as is from the original 
-[AMPL source](https://ampl.com/resources/the-ampl-book/example-files/).
+[AMPL source](https://ampl.com/learn/ampl-book/example-files/).
 
 The raw GAMS models were converted into GAMS scalar format using the [CONVERT](https://www.gams.com/latest/docs/S_CONVERT.html) facility. For models with multiple solves, 
 only the first solve instance is translated.
