@@ -1,6 +1,6 @@
 #  Cute models
 
-These models were created by Hande Yurttan anda translated to GAMS by Andre Savitsky.
+These models were created by Hande Yurttan and translated to GAMS by Andre Savitsky.
 
 Total number of models:   738
 
