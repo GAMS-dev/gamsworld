@@ -4,7 +4,7 @@
 Total number of models:   32
 
 | Name                                                                                                | Type | #Eqns | #Vars | #NZ  | #NNZ |
-|-----------------------------------------------------------------------------------------------------|------|-------|-------|------|------|
+|-----------------------------------------------------------------------------------------------------|------|------:|------:|-----:|-----:|
 | [assignment](https://examples.xpress.fico.com/example.pl?id=assignmentgr)                           | LP   | 11    | 26    | 76   | 0    |
 | [binpacking](https://examples.xpress.fico.com/example.pl?id=d4backup2ka)                            | MIP  | 33    | 232   | 683  | 0    |
 | [blending](https://examples.xpress.fico.com/example.pl?id=blendinggr)                               | LP   | 3     | 3     | 7    | 0    |
