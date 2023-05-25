@@ -3,7 +3,7 @@
 Total number of models:   8
 
 | Name     | Type | #Eqns | #Vars | #NZ | #NNZ |
-|----------|------|-------|-------|-----|------|
+|----------|------|------:|------:|----:|-----:|
 | [blend   ](https://examples.xpress.fico.com/example.pl?id=blenddata) | LP   | 3     | 3     | 7   | 0    |
 | [blend2  ](https://examples.xpress.fico.com/example.pl?id=blenddata) | LP   | 3     | 3     | 7   | 0    |
 | [blend3  ](https://examples.xpress.fico.com/example.pl?id=blenddata) | LP   | 3     | 3     | 7   | 0    |
