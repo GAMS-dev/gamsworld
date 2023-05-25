@@ -4,7 +4,7 @@ The MIPLIB is a famous library of mixed integer programming problem instances.
 
 This copy of the MIPLIB 2010 features the instances in a format conventient for GAMS users. 
 
-The original MIPLIB 2010 with more statistical information, classifications, references and so on on the individual instances can be found at http://www.miplib.zib.de.
+The original MIPLIB 2010 with more statistical information, classifications, references and so on on the individual instances can be found at https://miplib2010.zib.de/.
 
 **MIPLIB2010 Organization**
 
