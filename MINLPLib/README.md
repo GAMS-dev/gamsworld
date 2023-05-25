@@ -43,16 +43,16 @@ Total number of models:   269
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|-------:|------:|------:|-----: | 
 |4stufen	                                                                                                                                                         |99	|150	 |48	 |319	 |87	 |
 |[alan		  ](http://www.gams.com/modlib/libhtml/alan.htm)                                                                                                         |8		|9		 |4		 |24	 |3		 |
-|batch[MINOPT model](http://titan.princeton.edu/MINOPT/modlib/Tests/kocis88-4a.dat)[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/batch.mod)	 |74	|47		 |24	 |191	 |22	 |
+|[batch](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/batch.mod)	 |74	|47		 |24	 |191	 |22	 |
 |[batchdes	  ](http://www.gams.com/modlib/libhtml/batchdes.htm)	                                                                                                 |20	|20		 |9		 |53	 |10	 |
 |beuster	  	 																																					 |115	|158	|52		|398	|159	|
 |blendgap	  	 																																					 |360	|332	|66		|1454	|440	|
 |cecil_13	     																																					 |899	|841	|180	|2812	|360	|
 |chp_partload  																																						|2517	|2249	|45		|6940	|1916	|
 |contvar	   																																						|285	|297	|88		|1281	|530	|
-|csched1[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-sched1.dat)[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-sched.mod)|23		|77		|63		|174	|8		|
+|[csched1](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-sched.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-sched1.dat)|23		|77		|63		|174	|8		|
 |csched1a																																							|23		|29		|15		|78		|7		|
-|csched2[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-sched1.dat)[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-sched.mod)|138	|401	|308	|958	|58		|
+|[csched2](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-sched.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-sched1.dat)|138	|401	|308	|958	|58		|
 |csched2a																																							|138	|233	|140	|622	|57		|
 |deb10																																								|130	|183	|22		|692	|432	|
 |deb6																																								|508	|476	|20		|2342	|1432	|
@@ -126,10 +126,10 @@ Total number of models:   269
 |[gasnet		](http://www.gams.com/modlib/libhtml/gasnet.htm)																									|70		|91		|10		|267	|130	|
 |[gastrans		](http://www.gams.com/modlib/libhtml/gastrans.htm)																									|150	|107	|21		|419	|45		|		
 |[gbd			](http://titan.princeton.edu/MINOPT/modlib/Tests/gbd_test.dat)																						|5		|5		|3		|17		|1		|
-|gear[GAMS model](http://www.gams.com/modlib/libhtml/gear.htm)[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/geartrain.mod)					|1		|5		|4		|5		|4		|
-|gear2[GAMS model](http://www.gams.com/modlib/libhtml/gear.htm)[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/geartrain.mod)					|5		|29		|24		|33	 	|4		|
-|gear3[GAMS model](http://www.gams.com/modlib/libhtml/gear.htm)[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/geartrain.mod)					|5		|9		|4		|13	 	|4		|
-|gear4[GAMS model](http://www.gams.com/modlib/libhtml/gear.htm)[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/geartrain.mod)					|2		|7		|4		|9		|4		|
+|[gear](http://www.gams.com/modlib/libhtml/gear.htm)					|1		|5		|4		|5		|4		|
+|[gear2](http://www.gams.com/modlib/libhtml/gear.htm)					|5		|29		|24		|33	 	|4		|
+|[gear3](http://www.gams.com/modlib/libhtml/gear.htm)					|5		|9		|4		|13	 	|4		|
+|[gear4](http://www.gams.com/modlib/libhtml/gear.htm)					|2		|7		|4		|9		|4		|
 |ghg_1veh																																							|38		|30		|12		|131	|91		|
 |ghg_2veh																																							|63		|58		|18		|215	|154	|
 |ghg_3veh																																							|120	|97		|36		|431	|307	|	
@@ -162,24 +162,24 @@ Total number of models:   269
 |no7_ar5_1																																							|270	|113	|42		|1061	|14		|	
 |[nous1			](http://titan.princeton.edu/MINOPT/modlib/Tests/nous1.dat)																							|44		|51		|2		|197	|122	|
 |[nous2			](http://titan.princeton.edu/MINOPT/modlib/Tests/nous2.dat)																							|44		|51		|2		|197	|122	|
-|nuclear104[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-104.dat)	|14246	|23814	|10816	|106857 |61108	|
-|nuclear10a[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-104.dat)	|3340	|13011	|10920	|67870	|44884	|
-|nuclear10b[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-104.dat)	|24972	|23827	|10920	|100318 |23252	|
-|nuclear14[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14a.dat)		|1227	|1563	|576	|8180	|5520	|
-|nuclear14a[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14a.dat)		|634	|993	|600	|6362	|4944	|		
-|nuclear14b[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14b.dat)		|1786	|1569	|600	|8090	|3792	|
-|nuclear25[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-25.dat)	|1304	|1679	|625	|8837	|5990	|
-|nuclear25a[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-25.dat)	|660	|1059	|650	|6767	|5240	|	
-|nuclear25b[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-25.dat)	|1910	|1684	|650	|8642	|3990	|
-|nuclear49[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-49.dat)	|3874	|5736	|2401	|27971	|17539	|
-|nuclear49a[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-49.dat)	|1432	|3342	|2450	|19501	|14109	|
-|nuclear49b[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-49.dat)	|6234	|5743	|2450	|26704	|9307	|
-|nuclearva[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14a.dat)		|318	|352	|168	|2545	|2024	|		
-|nuclearvb[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14b.dat)		|318	|352	|168	|2509	|1988	|		
-|nuclearvc[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14c.dat)		|318	|352	|168	|2509	|1988	|		
-|nuclearvd[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14d.dat)		|318	|352	|168	|3385	|2864	|		
-|nuclearve[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14e.dat)		|318	|352	|168	|3385	|2864	|		
-|nuclearvf[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14f.dat)		|318	|352	|168	|3385	|2864	|		
+|[nuclear104](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-104.dat)	|14246	|23814	|10816	|106857 |61108	|
+|[nuclear10a](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-104.dat)	|3340	|13011	|10920	|67870	|44884	|
+|[nuclear10b](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-104.dat)	|24972	|23827	|10920	|100318 |23252	|
+|[nuclear14](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14a.dat)		|1227	|1563	|576	|8180	|5520	|
+|[nuclear14a](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14a.dat)		|634	|993	|600	|6362	|4944	|		
+|[nuclear14b](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14b.dat)		|1786	|1569	|600	|8090	|3792	|
+|[nuclear25](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-25.dat)	|1304	|1679	|625	|8837	|5990	|
+|[nuclear25a](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-25.dat)	|660	|1059	|650	|6767	|5240	|	
+|[nuclear25b](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-25.dat)	|1910	|1684	|650	|8642	|3990	|
+|[nuclear49](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-49.dat)	|3874	|5736	|2401	|27971	|17539	|
+|[nuclear49a](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-49.dat)	|1432	|3342	|2450	|19501	|14109	|
+|[nuclear49b](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-q-49.dat)	|6234	|5743	|2450	|26704	|9307	|
+|[nuclearva](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14a.dat)		|318	|352	|168	|2545	|2024	|		
+|[nuclearvb](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14b.dat)		|318	|352	|168	|2509	|1988	|		
+|[nuclearvc](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14c.dat)		|318	|352	|168	|2509	|1988	|		
+|[nuclearvd](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14d.dat)		|318	|352	|168	|3385	|2864	|		
+|[nuclearve](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod) [data](http://www-unix.mcs.anl.gov/~]leyffer/MacMINLP/problems/c-reload-14e.dat)		|318	|352	|168	|3385	|2864	|		
+|[nuclearvf](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/c-reload-14f.dat)		|318	|352	|168	|3385	|2864	|		
 |nvs01																																												|4		|4		|2		|10		|7		|
 |nvs02																																												|4		|9		|5		|20		|16		|
 |nvs03																																												|3		|3		|2		|7		|3		|
@@ -241,9 +241,9 @@ Total number of models:   269
 |risk2bpb																																											|581	|464	|14		|2289	|3		|
 |saa_2																																												|6206	|4408	|400	|26610	|15400	|
 |[sep1			](http://titan.princeton.edu/MINOPT/modlib/Tests/kocis87-2.dat)																										|32		|30		|2		|99	 |	12		|
-|space25 [AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-25.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-25.dat)			|236	|894	|750	|2057	|111	|			
-|space25a[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-25-r.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-25-r.dat)		|202	|384	|240	|1513	|111	|		
-|space960[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-960.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-960.dat)			|6498	|5538	|960	|19961	|4700	|
+|[space25](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-25.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-25.dat)			|236	|894	|750	|2057	|111	|			
+|[space25a](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-25-r.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-25-r.dat)		|202	|384	|240	|1513	|111	|		
+|[space960](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-960.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/space-960.dat)			|6498	|5538	|960	|19961	|4700	|
 |spectra2																																											|73		|70		|30		|409	|240	|	
 |[spring		](http://www.gams.com/modlib/libhtml/spring.htm)																													|9		|18		|12		|44		|14		|
 |st_e13																																												|3		|3		|1		|7		|1		|
@@ -281,19 +281,19 @@ Total number of models:   269
 |[synthes1		](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/synthes1.mod)																								|7		|7		|3		|23	    |6		|
 |[synthes2		](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/synthes2.mod)																								|15		|12		|5		|49	    |8		|
 |[synthes3		](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/synthes3.mod)																								|24		|18		|8		|91	 	|12		|
-|tln12[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon12.dat)				|73		|169	|168	|793	|288	|			
-|tln2[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon2.dat)				|13		|9		|8		|33	 	|8		|
-|tln4[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon4.dat)				|25		|25		|24		|105	|32		|
-|tln5[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon5.dat)				|31		|36		|35		|156	|50		|
-|tln6[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon6.dat)				|37		|49		|48		|217	|72		|
-|tln7[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon7.dat)				|43		|64		|63		|288	|98		|
+|[tln12](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon12.dat)				|73		|169	|168	|793	|288	|			
+|[tln2](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon2.dat)				|13		|9		|8		|33	 	|8		|
+|[tln4](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon4.dat)				|25		|25		|24		|105	|32		|
+|[tln5](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon5.dat)				|31		|36		|35		|156	|50		|
+|[tln6](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon6.dat)				|37		|49		|48		|217	|72		|
+|[tln7](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon7.dat)				|43		|64		|63		|288	|98		|
 |[tloss			](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)																								|54		|49		|48		|303	|72		|
-|tls12[AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss12.dat)				|385	|813	|668	|7205	|288	|		
-|tls2[ AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss2.dat)				|25		|38		|33		|210	|8		|
-|tls4 [AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss4.dat)				|65		|106	|89		|614	|32		|
-|tls5 [AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss5.dat)				|91		|162	|136	|956	|50		|		
-|tls6 [AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss6.dat)				|121	|216	|179	|1370	|72		|		
-|tls7 [AMPL model](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod)[MacMINLP](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss7.dat)				|155	|346	|296	|2258	|98		|		
+|[tls12](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss12.dat)				|385	|813	|668	|7205	|288	|		
+|[tls2](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss2.dat)				|25		|38		|33		|210	|8		|
+|[tls4](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss4.dat)				|65		|106	|89		|614	|32		|
+|[tls5](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss5.dat)				|91		|162	|136	|956	|50		|		
+|[tls6](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss6.dat)				|121	|216	|179	|1370	|72		|		
+|[tls7](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimlon.mod) [data](http://www-unix.mcs.anl.gov/~leyffer/MacMINLP/problems/trimloss7.dat)				|155	|346	|296	|2258	|98		|		
 |tltr																																												|55		|49		|48		|228	|54		|
 |uselinear																																											|7031	|6793	|58		|22541	|14091	|
 |util																																												|168	|146	|28		|467	|10		|	
