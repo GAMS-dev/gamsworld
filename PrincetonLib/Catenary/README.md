@@ -6,6 +6,6 @@ https://vanderbei.princeton.edu/ampl/nlmodels/catenary/index.html
 
 Total number of models:   1
 
-|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |BestInt	   
-|-----------------|-----:|------:|-----:|------:|------:|-----------:|
-|catenary	  	  |NLP	 |102	 |203	|504    |402    |-45.55879878|
+|Name	          |Type  |#Eqns	 |#Vars	|#NZ    |#NNZ   |	   
+|-----------------|-----:|------:|-----:|------:|------:|
+|catenary	  	  |NLP	 |102	 |203	|504    |402    |
