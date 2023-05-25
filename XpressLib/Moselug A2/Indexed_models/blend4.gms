@@ -52,7 +52,7 @@ use.up[ORES] = AVAIL[ORES]  ;
 *use.fx[1] = 54.4737 ;
 *use.fx[2] = 45.0    ;
 
-Model blend3 / all / ;
+Model blend4 / all / ;
 
 Solve blend4 using lp maximazing Profit ;
 
