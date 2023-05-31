@@ -1,0 +1,5 @@
+PrincetonLib/Cute/Scalar_models/scurly10.gms filter=lfs diff=lfs merge=lfs -text
+PrincetonLib/Cute/Scalar_models/scurly20.gms filter=lfs diff=lfs merge=lfs -text
+PrincetonLib/Cute/Scalar_models/scurly30.gms filter=lfs diff=lfs merge=lfs -text
+MIPLib2010/instances/zib01.gdx filter=lfs diff=lfs merge=lfs -text
+MIPLib2010/instances/zib02.gdx filter=lfs diff=lfs merge=lfs -text
